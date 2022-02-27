@@ -1,0 +1,1092 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divinity-knots vnloosed or a cleare discovery of truth; by resolving many doubts, according to scripture, orthodox divines, and sound reason, so as weake capacities may receive satisfaction therein. To which purpose, a number of points are explained by familiar simile's. A treatise intended specially for the instruction of young Christians in Rothstorne parish in Cheshire: but published for a further extent of the benefit thereof, to the Israel of God. By Adam Martindale, one of the meanest labourers in the Lords harvest.</title>
+            <author>Martindale, Adam, 1623-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 128 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89619</idno>
+            <idno type="STC">Wing M856</idno>
+            <idno type="STC">Thomason E1352_2</idno>
+            <idno type="STC">ESTC R209407</idno>
+            <idno type="EEBO-CITATION">99868288</idno>
+            <idno type="PROQUEST">99868288</idno>
+            <idno type="VID">169824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89619)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169824)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 178:E1352[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divinity-knots vnloosed or a cleare discovery of truth; by resolving many doubts, according to scripture, orthodox divines, and sound reason, so as weake capacities may receive satisfaction therein. To which purpose, a number of points are explained by familiar simile's. A treatise intended specially for the instruction of young Christians in Rothstorne parish in Cheshire: but published for a further extent of the benefit thereof, to the Israel of God. By Adam Martindale, one of the meanest labourers in the Lords harvest.</title>
+                  <author>Martindale, Adam, 1623-1686.</author>
+               </titleStmt>
+               <extent>[6], 85, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hancock, in Popes head Alley, neere the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169824:1" rendition="simple:additions"/>
+            <p>Divinity-knots <g ref="char:V">Ʋ</g>nlooſed.</p>
+            <p>OR A CLEARE DISCOVERY of truth; by reſolving many doubts, according to Scripture, Orthodox Di<g ref="char:EOLhyphen"/>vines, and ſound Reaſon, ſo as weake capacities may re<g ref="char:EOLhyphen"/>ceive ſatisfaction therein.</p>
+            <p>TO WHICH PURPOSE, A Number of Points are explained by familiar Simile's.</p>
+            <p>A TREATISE INTENDED ſpecially for the inſtruction of young Chriſtians in ROTHSTORNE pa<g ref="char:EOLhyphen"/>riſh in CHESHIRE: But publiſhed for a further extent of the benefit thereof, to the Iſrael of <hi>GOD.</hi>
+            </p>
+            <p>By <hi>Adam Martindale,</hi> one of the meanest Labourers in the LORDS Harveſt.</p>
+            <q>
+               <bibl>
+                  <hi>2 Tim. 2.7.</hi>
+               </bibl>
+               <p>Conſider what I ſay, and the Lord give you under<g ref="char:EOLhyphen"/>ſtanding in all things.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Pet. 5.10.</hi>
+               </bibl>
+               <p>The GOD of all grace — make you per<g ref="char:EOLhyphen"/>fect, ſtabliſh, ſtrengthen, ſettle you.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Hancock,</hi> in Popes head Alley, neere the Royall Exchange, 1649.</p>
+         </div>
+         <div type="second_title_page">
+            <pb facs="tcp:169824:2"/>
+            <pb facs="tcp:169824:2"/>
+            <p>Divinity-knots <g ref="char:V">Ʋ</g>nlooſed.</p>
+            <p>OR A CLEARE DISCOVERY of truth, according to Scripture, Or<g ref="char:EOLhyphen"/>thodox Divines, and ſound Reaſon, ſo as weake capacities may receive much ſatisfaction and benefit.</p>
+            <p>Herein ſeventy five Doubts are reſolved, drawne from theſe ſeverall heads moſt in Controverſie.</p>
+            <list>
+               <item>
+                  <hi>Viz.</hi> Touching the Scrip<g ref="char:EOLhyphen"/>tures, and God: his De<g ref="char:EOLhyphen"/>cree and Creation.</item>
+               <item>Of Providence.</item>
+               <item>Of the fall of man.</item>
+               <item>Of the Law of God, and the two Covenants.</item>
+               <item>Of Chriſt the Mediator,</item>
+               <item>Of Free-will.</item>
+               <item>Of Calling, Juſtification, A<g ref="char:EOLhyphen"/>doption, Sanctification, Faith, Repentance, and good Workes.</item>
+               <item>Of Perſeverance, and Aſſu<g ref="char:EOLhyphen"/>rance.</item>
+               <item>Of Chriſtian Liberty, and Li<g ref="char:EOLhyphen"/>berty of Conſcience.</item>
+               <item>Of the Civill Magiſtrate, and Church-Cenſures.</item>
+               <item>Of Religious Worſhip, and of the Sabbath day.</item>
+               <item>Of Oathes.</item>
+               <item>Of the Church.</item>
+               <item>Of Communion of Saints.</item>
+               <item>Of the Sacraments.</item>
+            </list>
+            <p>By <hi>Adam Martindale,</hi> one of the meanest Labourers in the LORDS Harveſt.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Hancock,</hi> in Popes head Alley, neere the Royall Exchange, 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169824:3"/>
+            <pb facs="tcp:169824:3"/>
+            <head>To my Deare and pre<g ref="char:EOLhyphen"/>cious Father, CAPTAINE JAMES JOLLIE: AND To my preſent, and <hi>quondam</hi> Hea<g ref="char:EOLhyphen"/>rers, at <hi>Rothstorne</hi> in <hi>Cheſhire,</hi> and <hi>Gorton</hi> in <hi>Lancaſhire.</hi>
+            </head>
+            <opener>
+               <salute>Dearely Beloved,</salute>
+            </opener>
+            <p>THough the Title-page informs you for whoſe ſake I was eſpeci<g ref="char:EOLhyphen"/>ally induced to write this ſmall Treatiſe; it was neuer inten<g ref="char:EOLhyphen"/>ded by me, that any party of you ſhould wholly monopolize my thoughts of love and Chriſtian reſpect; but howſoever my duty preſſeth me more, in reference to the charge I daily undergoe, then to thruſt my Sickle into anothers Harveſt:
+<pb facs="tcp:169824:4"/>Yet ſince this comes on the publique Theatre, you may all challenge as well a ſhare in it, as the Author whom all of you may juſtly claime (though in different relations peradventure) to be your owne. Concerning the Booke it ſelfe, it behoves me not to ſay much; To diſpraiſe it beyond my owne judg<g ref="char:EOLhyphen"/>ment, were ſinfull modeſty; to praiſe it above deſert, unſufferable arrogan<g ref="char:EOLhyphen"/>cy. <hi>Medio tutiſſimus, &amp;c.</hi> The beſt courſe is to leave it to your Chriſtian peruſall, and charitable ſurvay; and ſo I doe; telling you onely, that no<g ref="char:EOLhyphen"/>thing, ſave the weakneſſe is mine owne. For the main ſubſtance (though the moſt of it came immediately out of my memory in this forme you ſee it, without any conſiderable conſulting of Authors) was of that ſtore, which in reading the Scripture, and other Di<g ref="char:EOLhyphen"/>vinity Bookes, and hearing Sermons, conferences, <hi>&amp;c.</hi> I had before treaſu<g ref="char:EOLhyphen"/>red up. Some things indeed there be, which you ſhall hardly meet with in
+<pb facs="tcp:169824:4"/>any VVorke yet extant; but thoſe I alſo diſclaime as none of mine: For ſo farre as the truth of GOD appea<g ref="char:EOLhyphen"/>reth in them, the ſpirit of God, the guide to, and in all ſaving truth (in whoſe hand I am at the beſt but an In<g ref="char:EOLhyphen"/>ſtrument) may juſtly appropriate it to himſelfe, as his right and due. Though ſometimes I am forced to claſh with unſound opinions, I haue concealed the Authors Names, as having a deſire to vindicate the truth, not to provoke a<g ref="char:EOLhyphen"/>ny to vindicate himſelf: for which cauſe I have not onely declined all bitter<g ref="char:EOLhyphen"/>neſſe of expreſſion (which I think be<g ref="char:EOLhyphen"/>low a Chriſtian at all times) but alſo the recitall of their owne words formal<g ref="char:EOLhyphen"/>ly (contenting my ſelfe with the mat<g ref="char:EOLhyphen"/>ter) leaſt it ſhould too plainely appeare who owneth the Tenets I oppoſe. If notwithſtanding all this, any be diſpo<g ref="char:EOLhyphen"/>ſed to wrangle with me, I ſhall hardly trouble the VVorld, or my ſelfe ſo far, as to rejoyne to ſuch replyes: But if I be reaſoned with in the ſpirit of meek<g ref="char:EOLhyphen"/>neſſe,
+<pb facs="tcp:169824:5"/>whether it be in this publique way, or any other, I dare with a ſafe conſcience (and ſhall be ready as my occaſions will permit) to give an ac<g ref="char:EOLhyphen"/>count, in a brotherly way, to any that ſhall deſire ſatisfaction, concerning a<g ref="char:EOLhyphen"/>ny thing herein aſſerted: Thus I com<g ref="char:EOLhyphen"/>met both you, and this ſmall piece to the bleſſing of GOD, remaining,</p>
+            <closer>
+               <signed>Yours in the affaires of the Goſpell, A: Martindale.</signed>
+               <dateline>
+                  <hi>Strethill, <date>Aprill, the 9. 1649</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169824:5"/>
+            <head>Divinity-knots unlooſed.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I</hi> Of the Scriptures, and by the way, of the light of Nature.</head>
+               <p n="1">1. <hi>Doubt. <seg rend="decorInit">I</seg>F the</hi> Scripture <hi>be a per<g ref="char:EOLhyphen"/>fect rule</hi>
+                  <note n="a" place="margin">2 Tim. 3.16, 17. Pſa. 19.7. Deu. 12.32 Pro. 30.6. Iſa. 8.20. Revel. 22.18, 19.</note>, <hi>how can the</hi> light of nature <hi>be of any uſe in ſpirituall matters?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> A rule may be ſayd to be perfect, in three caſes:
+<list>
+                     <item>1. When there is a perfect enumeration of, and proviſion for, all particulars that poſſibly can fall under it,</item>
+                     <item>2. When it runs in generall tearmes, and is comprehenſive enough to include what<g ref="char:EOLhyphen"/>ſoever is to be taken within it.</item>
+                     <item>3. When it particularizeth the princi<g ref="char:EOLhyphen"/>pall, and expreſſeth the reſt more gene<g ref="char:EOLhyphen"/>rally.</item>
+                  </list>
+               </p>
+               <pb n="2" facs="tcp:169824:6"/>
+               <p>As for example:</p>
+               <p>
+                  <note n="*" place="margin">This hom<g ref="char:EOLhyphen"/>ly Simile (though it may ſeeme ridiculous to critick wits) is of great uſe, if well conſidered, for the clea<g ref="char:EOLhyphen"/>ring of this queſtioned truth, to the capacity of weak Chri<g ref="char:EOLhyphen"/>ſtians, for whoſe ſake this worke was under<g ref="char:EOLhyphen"/>taken.</note>
+                  <hi>In a Leaſe, we account the rules perfect, which a Tenant is to walke by, in occupying the ground which is letten him, if</hi> 1. <hi>it give him particular leave to paſture, mow, and ſow, or ſecondly, ſay in generall tearmes, he is to have it to all tenantly uſes, or give way that the Te<g ref="char:EOLhyphen"/>nant ſhall have it for tillage, and all other te<g ref="char:EOLhyphen"/>nantly uſes.</hi>
+               </p>
+               <p>Now the Scriptures are perfect in the laſt ſenſe; they deliver particular rules for all the maine poynts of Faith and pra<g ref="char:EOLhyphen"/>ctice; but matters of circumſtance, and in<g ref="char:EOLhyphen"/>feri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur alley are comprehended perfectly, though more generally: And therefore as he that holdeth his Living to all Tenantly uſes, had need of ſo much judgement as to drawe this generall into particulars: So when the Scripture entreth not upon the particulars, but in the generall command<g ref="char:EOLhyphen"/>eth order, decencie, and edification<note n="b" place="margin">1 Cor. 14.26.40.</note>, we had need of <hi>the light of nature,</hi> aſſiſted by the ſpirit of God, to judge according to the generall dictates of Scripture, what in ſuch a time, and ſuch a caſe, may make for order, decencie, or edifying.</p>
+               <p n="2">2. Doubt. <hi>How can Miniſters tell us what the Word imports in the</hi> Originall <hi>of any text they quote, ſeeing themſelves (as ſome with pro<g ref="char:EOLhyphen"/>bability
+<pb n="3" facs="tcp:169824:6"/>affirme) never ſaw</hi> the Originall?</p>
+               <p>
+                  <hi>Reſolution.</hi> By <hi>the Originall</hi> we doe not meane the firſt Copies that were written, but faithfull tranſcripts of them in the ſame language, and theſe none can deny us to have ſeene, except they will deny withall, that our Bibles in Engliſh (which are tranſlations thereof) are the word of God, which the Objecter ſeemeth not to doe. And yet, although we hold that no tongue can ſo fully expreſſe the ſenſe of ſome pla<g ref="char:EOLhyphen"/>ces, as that wherein it was written; nor is of the ſame authority, but as it agrees ther<g ref="char:EOLhyphen"/>with; we freely confeſſe, that in the Cha<g ref="char:EOLhyphen"/>racters and Printing, there may be errour (which may be rectifyed by comparing one Booke and place with another:) And without the ſpirit of God to aſſure us, no knowledge of the <hi>Originall</hi> is ſufficient to give us full aſſurance that it is Gods word<note n="c" place="margin">1 Cor. 2.14.</note>, but by the helpe of the holy Spirit<note n="d" place="margin">1 John 2.20, 27.</note>, the Scriptures may ſufficiently informe an illi<g ref="char:EOLhyphen"/>terate man for his ſalvation.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="4" facs="tcp:169824:7"/>
+               <head>CHAP. II. <hi>Of God.</hi>
+               </head>
+               <p n="3">3. Doubt. <hi>IF God be unchangeable</hi>
+                  <note n="a" place="margin">Jam. 1.17</note>, <hi>how can he be ſayd to repent</hi>
+                  <note n="b" place="margin">Gen. 6 6. 1 Sam. 15.11.</note>.</p>
+               <p>
+                  <hi>Reſol.</hi> It is ſpoken according to our ca<g ref="char:EOLhyphen"/>pacity, for though God doe never repent<note n="c" place="margin">Num. 23.19. 1 Sam. 15.29.</note>, (that is, change his counſell) yet he doth as if he did repent, when he undoth what he had before done<note n="d" place="margin">Gen. 6.6, 7.</note>. Nor may God be charged with changeableneſſe, though the courſe of his providence be turned, but the change is in us. You know the Sun by the ſame quality, and in the ſame ſeaſon, will ſoften Wax and harden clay, yea, will ſoften the earth when it is frozen, and harden it at other times, and yet the Sun never altereth his quality, but is ſtill the ſame: So though God be gracious to ſome, and ſevere to others<note n="e" place="margin">Rom. 9.18. Ezek. 18.</note> ; yea, ſevere and gra<g ref="char:EOLhyphen"/>cious to the ſame perſon at diverſe times, and in different reſpects<note n="f" place="margin">Ezek. 18 21, 22, 23, 24, &amp;c.</note> ; yet he is one and the ſame for ever<note n="g" place="margin">Exod. 3.14.</note>.</p>
+               <p n="4">4. Doubt. <hi>If God be a ſpirit, how is hee ſayd to have hands, eyes, wings, &amp;c.?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> This is onely ſpoken, as the for<g ref="char:EOLhyphen"/>mer,
+<pb n="5" facs="tcp:169824:7"/>according to our capacity, that by the hand of God we may note his power<note n="h" place="margin">Iſa. 59.1.</note>, by his eye, wiſedome<note n="i" place="margin">Pſal. 11.4.</note>, by his wings, pro<g ref="char:EOLhyphen"/>tection<note n="k" place="margin">Pſa. 57.1.</note>.</p>
+               <p n="5">5. Doubt. <hi>If God be indiviſible and ſim<g ref="char:EOLhyphen"/>ple, how can the ſacred eſſence be diſtinguiſhed into three perſons?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> I ſee your skill in Logick is ſmall, or elſe it were eaſie to know how to diſtin<g ref="char:EOLhyphen"/>guiſh betwixt things, that cannot be divi<g ref="char:EOLhyphen"/>ded: I can diſtinguiſh betweene the eſſence and exiſtence of the ſame thing, betwixt inſeparable accidents, and their ſubjects, or (to ſpeake Common-road language) be<g ref="char:EOLhyphen"/>tween a body and its ſubſtance, forme fi<g ref="char:EOLhyphen"/>gure, <hi>&amp;c.</hi> and yet not divide them. So it is no repugnancie in reaſon it ſelfe, that the God-head be one entire entity<note n="l" place="margin">1 Cor. 8.4, 6.</note>, and yet conſidered in a perſonall reſpect may be diſtinguiſhed into the <hi>Father, Sonne,</hi> and <hi>holy Ghoſt</hi>
+                  <note n="m" place="margin">Mat. 3.16, 17. 1 Joh. 5.7.</note>.</p>
+               <p n="6">6. Doubt. <hi>I finde in the</hi> 45. <hi>of Iſaich, Verſ.</hi> 21. <hi>that Chriſt ſaith, there is no GOD but himſelfe, notwithſtanding wee heare him ſaying as much by his Father, John</hi> 17.3. <hi>how can both be the onely true God?</hi>
+               </p>
+               <p>
+                  <hi>Reſol. GOD</hi> and <hi>CHRIST</hi> differ not eſſentially, but onely perſonally; the Father is GOD, ſo is the Son; yet they
+<pb n="6" facs="tcp:169824:8"/>are not two <hi>Gods,</hi> but one: There is no o<g ref="char:EOLhyphen"/>ther <hi>God</hi> but that <hi>God</hi> which the <hi>Father</hi> is, nor any <hi>God,</hi> but that which <hi>Chriſt</hi> is, and this word <hi>(onely)</hi> is not excluſive of any perſon of the <hi>Trinity</hi> (for every perſon is the onely <hi>God</hi>) but of all others, whether reputed Gods, or Creatures<note n="n" place="margin">1 Cor. 8.4, 5, 6.</note>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of Gods Decree, and creation.</head>
+               <p n="7">7. Doubt. <hi>TO what purpoſe ſhould I ſeek the good of my ſoule? If I he elected I ſhall be ſaved, if not I cannot.</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> It is not for you to ſearch the Ca<g ref="char:EOLhyphen"/>binet of Gods counſell<note n="a" place="margin">Deut. 29.29.</note>, but to beleeve<note n="b" place="margin">John 3.18.36.</note>, and repent<note n="c" place="margin">Luke 13.3, 5.</note> ; which if you doe, you are not to queſtion your ſalvation<note n="d" place="margin">Eph. 2.8 2 Tim. 1.9 2 Cor. 7.10</note>. Saving Faith (though it be not a cauſe) is a fruit of election<note n="e" place="margin">Acts 13.48.</note>, for God hath reſpect to the meanes, as well as the end, and conjoyneth them in his decree<note n="f" place="margin">Eph. 1.4.5. &amp; 2.10.</note> : and therefore we may conclude, that beleeving we are juſtified<note n="g" place="margin">Rom. 3.28.</note>, which is an aſſured argument we were pre<g ref="char:EOLhyphen"/>deſtinated<note n="h" place="margin">Rom. 8.29, 30.</note>, and ſhall be ſaved<note n="i" place="margin">Tit. 3.7.</note>. But on the other hand, they that are hardened by ſin<note n="k" place="margin">Pſa. 95.8. Heb. 3.13.</note>, are rejected of God<note n="l" place="margin">Rom. 9.18.</note>, and ſhall be damned<note n="m" place="margin">1 Cor. 6.9, 10. Gal. 5.19, 20, 21.</note>.</p>
+               <pb n="7" facs="tcp:169824:8"/>
+               <p n="8">8. Doubt. <hi>If God predeſtinate the meanes as well as the end, ſeeing ſin is the meanes ten<g ref="char:EOLhyphen"/>ding to damnation, whom he predeſtinates to damnation, doth not he predeſtinate them to ſin? And if ſo, how can he be free from it?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> In Predeſtination two things are to be conſidered:
+<list>
+                     <item>1. <hi>Gods preterition,</hi> paſſing by, or non<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<g ref="char:EOLhyphen"/>lecting of a perſon.</item>
+                     <item>2. <hi>Predamnation,</hi> or fore-condemning a perſon to perdition.</item>
+                  </list>
+               </p>
+               <p>The former is of the meere pleaſure of God, for there can be no other reaſon gi<g ref="char:EOLhyphen"/>ven, why this man is choſen, and that re<g ref="char:EOLhyphen"/>fuſed. Now thoſe whom God thus paſſeth by, through want of that aſſiſtance which he is not bound to give, fall finally from God, and ſo conſidered, are pre-damned, or fore-ordained to deſtruction. God doth not force, or cauſe men to ſinne, but leave them to it: For ſin being no poſitive thing, but a privation of what ſhould be: <hi>Viz.</hi> of obedience, ariſeth from the inſufficiency of the Creature, left to it ſelfe: If a King by his wiſedome could foreſee, that diverſe of his Subjects would prove Traytors, and be hanged, unleſſe he prefer them, and doth forbeare to gratifie them ſo far, onely be<g ref="char:EOLhyphen"/>cauſe it is not his pleaſure ſo to doe, can he
+<pb n="8" facs="tcp:169824:9"/>be juſtly accuſed of the Treaſon which af<g ref="char:EOLhyphen"/>ter they commit? I beleeve no polititian wil affirma it: Muſt we then be ſo bold as to charge him who is of purer eyes, then to behold iniquity, to be in any ſort the cauſe thereof, becauſe he doth not uphold us a<g ref="char:EOLhyphen"/>gainſt it?</p>
+               <p n="9">9. Doubt. <hi>If God doe not onely paſſe by men, but predamne them to Hell alſo by this his decree (as you ſhewed in the reſolution of the laſt Doubt) how can his juſtice be clea<g ref="char:EOLhyphen"/>red, ſeeing man had then not actually ſinned?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Men ſin in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, not from eterni<g ref="char:EOLhyphen"/>ty: yet are their ſins from eternity, and to eternity with God. For with him things are not paſt, preſent, and to come, as with us, but alwayes preſent, in one infinite mo<g ref="char:EOLhyphen"/>ment. And therefore the Lord who ſeath all the ſins of a reprobate by one pure, indi<g ref="char:EOLhyphen"/>viduall act, from, and to all eternity, may as well piſſe an act of damnation againſt them, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they were actually committed.</p>
+               <p n="10">10. Doubt. <hi>Might not God as well damne men in a capacity of holineſſe, as thus to leave them to ſin, and then condemne them for it?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> It is a curious and unprofitable queſtion, to diſpute whether he might not without wrong to the Creature, have done ſo: Perhaps <hi>Rom.</hi> 9, 20, 21, 22. will prove
+<pb n="9" facs="tcp:169824:9"/>he might, but ſuch a caſe never did, not will fall out: However to our capacity, the juſtneſſe of God ſhould not ſhine ſo per<g ref="char:EOLhyphen"/>ſpicuouſly, if he ſhould damne a Creature that never ſinned; for then ſhould he in<g ref="char:EOLhyphen"/>flict undeſerved puniſhment, whereas in the courſe he now takes, he onely denyeth undeſerved ſavours, and layeth on them de<g ref="char:EOLhyphen"/>ſerved penalties.</p>
+               <p n="11">11. Doubt. <hi>But if Gods decree binde not men to a neceſſity of ſinning, how came ſin into the World, ſeeing Men and Angels were made holy, and the whole Creation is by GOD him<g ref="char:EOLhyphen"/>ſelfe pronounced good</hi>
+                  <note n="n" place="margin">Gen. 1.31</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> GODS decree doth no other<g ref="char:EOLhyphen"/>wiſe bind man to a neceſſity of ſinning, then the withdrawing of the upholding hand from a ſtaffe reared up, binds it to a neceſſi<g ref="char:EOLhyphen"/>ty of falling; <hi>Viz,</hi> in a privative way. I ſhew<g ref="char:EOLhyphen"/>ed before, that ſin is only privative; that is, a defect of ſome thing required, as dark<g ref="char:EOLhyphen"/>neſſe is nothing elſe but a defect of light: and theſe privations doe not neceſſarily re<g ref="char:EOLhyphen"/>quire cauſes, or creation; light was in<g ref="char:EOLhyphen"/>deed created<note n="o" place="margin">Gen. 2.3.</note>, but darkneſſe was before on the face of the deepe<note n="p" place="margin">Verſ. 2.</note>. Now though God made Angels and Men holy, he made them not Gods, that they ſhould ſtand of themſelves without his help, which when
+<pb n="10" facs="tcp:169824:10"/>he withheld from man, and ſome of the Angels, they faltered in their obedience, and ſo became ſinfull.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of Providence.</hi>
+               </head>
+               <p n="12">12. Doubt. <hi>HOw can God by his provi<g ref="char:EOLhyphen"/>dence diſpoſe of ſecond cau<g ref="char:EOLhyphen"/>ſes that things can come to paſſe contingently, freely, or miraculouſly, when he hath fore-ordai<g ref="char:EOLhyphen"/>ned how they ſhall be in his immutable will?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> There is a twofold neceſſity. 1. <hi>In Gods decree,</hi> ſo all things that are, fall out neceſſarily and cannot be otherwiſe, 2. <hi>In Naturall cauſes,</hi> ſo fire neceſſarily burnes, water neceſſarily wets &amp;c. Now to us things are ſaid to fall out neceſſarily, when we ap<g ref="char:EOLhyphen"/>prehend a ſufficient next cauſe. But this ſometimes is not, ſometimes appeares not before the effect, from whence the notions <hi>[Contingent free, miraculous]</hi> have their riſe.</p>
+               <p>As for example.</p>
+               <p>When an Infant is formed in the wombe, though in reſpect of Gods decree, it is ne<g ref="char:EOLhyphen"/>ceſſarily a male, or neceſſarily a female, and
+<pb n="11" facs="tcp:169824:10"/>ſo in time will prove: Yet to us from whom the next cauſe of this diſtinction in the womb is hid, it is contingent whether it be Male or Female.</p>
+               <p n="13">13. Doubt. <hi>How can God ſtrengthen and governe all Creatures in their actings, and be free from ſinne, ſeeing many actions are ſin<g ref="char:EOLhyphen"/>full?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> You muſt diſtinguiſh betwixt the action, and the evill in it; ſome ſins are a<g ref="char:EOLhyphen"/>ctuall, but none actions. Therefore as a skilfull Minſtrell playing on a jarring In<g ref="char:EOLhyphen"/>ſtrument cauſeth it to ſound, but its owne badneſſe cauſeth it to ſound jarringly: So God cauſeth us to act, but that we act ſin<g ref="char:EOLhyphen"/>fully, the cauſe is in our ſelves. To kill a man is not ſimply evill, ſometimes it is not onely lawfull, but a duty<note n="a" place="margin">Jer. 48.10.</note> ; but killing a man upon ſuch tearmes, without a juſt cauſe or call. Sin lyeth in the morall cir<g ref="char:EOLhyphen"/>cumſtances, not the phyſicall ſubſtance of the action.</p>
+               <p n="14">14. Doubt. <hi>If God be perfectly glorious, how can he glorifie himſelfe in the workes of his providence, ſeeing nothing can be added to that which is perfect?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> We may conſider the glory of God theſe two wayes.</p>
+               <p n="1">1. <hi>As it is eſſentiall to him,</hi> and ſo it is in<g ref="char:EOLhyphen"/>effably perfect.</p>
+               <pb n="12" facs="tcp:169824:11"/>
+               <p n="2">2. <hi>As it is revealed to us,</hi> and this becauſe of our weakneſſe, is onely in part, and by degrees. A <hi>Moſes</hi> can but view the back parts<note n="b" place="margin">Exod. 33 23.</note> ; a <hi>Paul</hi> but ſee in part<note n="c" place="margin">1 Cor. 13 9, 10.</note>, and dark<g ref="char:EOLhyphen"/>ly as in a glaſſe<note n="d" place="margin">
+                     <hi>Ibid.</hi> ver. 12.</note> : And <hi>GOD</hi> is ſayd to glorifie himſelfe, when by the great works of his providence, he lets us ſee further into his glorious attributes.</p>
+               <p n="15">15. Doubt. <hi>If the providence of God offer to men occaſions to ſin, how is God free from the iniquity committed by reaſon thereof?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> As a King that executeth juſtice, though he know ſome wicked fellowes will thereat, take occaſion to be Traytours to him, is not to be blamed: So <hi>GODS</hi> workes being holy, though wicked men a<g ref="char:EOLhyphen"/>buſe them through their owne perverſneſſe, and make them occaſions to ſin, he is not unrighteous, but puniſheth them in juſt judgement, ſuffering them to fall by their owne folly.</p>
+               <p n="16">16. Doubt. <hi>When GOD by his provi<g ref="char:EOLhyphen"/>dence makes wicked men ſcourges to his people, how can they be blamed for doing what GOD would have done?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Though wicked men can doe no<g ref="char:EOLhyphen"/>thing to the people of GOD, but what he gives way to<note n="e" place="margin">Pſal. 124.6. Pſal. 129.1, 2.3. Acts 4, 27, 28.</note> : Yet foraimuch as they indeavour to exceed their Commiſſion<note n="f" place="margin">Pſal. 83.4 Iſa. 37.27, 28, 29, 33.</note>,
+<pb n="13" facs="tcp:169824:11"/>and aime not at Gods glory, but their owne ends<note n="g" place="margin">Iſa. 10.6, 7, &amp;c.</note>, ſhewing hoſtility and not pitty to Gods people<note n="h" place="margin">Pſ, 137.7. Lam. 2.17.</note> ; they ſhall anſwer for their ambitious malice<note n="i" place="margin">Iſa. 10.12</note> ; though God by his wiſedome will cauſe the wrath of man to praiſe him, and the remainder of wrath he will reſtraine<note n="k" place="margin">Pſ. 76.10.</note>.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Concerning the fall of Man.</head>
+               <p n="17">17. Doubt. <hi>HOw could taſting the forbidden fruit bee ſo great an offence, as to deſerve damnation?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Some give this reaſon, that this act of our Parents, was a breach of each of Gods Commandements in particular, and indeavour to make it appeare by an in<g ref="char:EOLhyphen"/>duction, though for mine owne part, I think it holds in ſome, not in all, but this I deſire to ſpeak with modeſty and ſubmiſ<g ref="char:EOLhyphen"/>ſion: However it cannot be denyed, but the breach of the leaſt of Gods Comman<g ref="char:EOLhyphen"/>dements maketh us guilt of all<note n="a" place="margin">James 2 10.</note> : And the violation of his Law, who is infinite, deſerveth infinite puniſhment, which be<g ref="char:EOLhyphen"/>cauſe it cannot be in extent (we being fi<g ref="char:EOLhyphen"/>nite)
+<pb n="14" facs="tcp:169824:12"/>muſt be in duration. Nor doth the ſmall value of the fruit abate any thing, but rather aggravate it, for (as Maſter <hi>By<g ref="char:EOLhyphen"/>field</hi> ſayth well) their ſin was greater, that upon ſo ſmall an advantage would adven<g ref="char:EOLhyphen"/>ture eternall happineſſe.</p>
+               <p n="18">18. Doubt. <hi>But how comes it to paſſe, that</hi> Adams <hi>fault and puniſhment is derived to his whole poſterity?</hi>
+               </p>
+               <p>
+                  <hi>Reſol. Adam</hi> ſtood in Covenant with God as <hi>Man,</hi> not as <hi>a Man;</hi> that is, as a publique, not a private perſon: and there<g ref="char:EOLhyphen"/>fore as he received the Covenant of works, and for a time ſtood by it for himſelfe and all mankind, ſo for himſelfe and all man<g ref="char:EOLhyphen"/>kinde he fell from it<note n="b" place="margin">Rom. 5.12. to 20. 1 Cor. 15.22.</note>.</p>
+               <p n="19">19. Doubt. <hi>Would it not have made more for GODS glory to have kept men from ſin, to ſerve him in holineſſe?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> No: For by this meanes man is a fit object for the rich mercy or juſt judge<g ref="char:EOLhyphen"/>ment of <hi>God,</hi> which by occaſion hereof GOD manifeſteth to his owne glory.</p>
+               <p n="20">20. Doubt. <hi>Some affirme that ſin</hi> diſho<g ref="char:EOLhyphen"/>noureth <hi>God, other ſay he cannot be</hi> diſhonou<g ref="char:EOLhyphen"/>red; <hi>whether of theſe is true Doctrine?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> They may both be true in a diffe<g ref="char:EOLhyphen"/>rent ſenſe; for the word <hi>(diſhonour)</hi> may be taken two wayes:</p>
+               <pb n="15" facs="tcp:169824:12"/>
+               <p n="1">1. To degrade or make one unhonoura<g ref="char:EOLhyphen"/>ble, that before was honourable; but in this ſenſe it is rarely (if at all) found in Scripture.</p>
+               <p n="2">2. To diſreſpect ot ſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight one that is ho<g ref="char:EOLhyphen"/>nourable, and ſtill remaines worthy to be honoured: In the former ſenſe God can<g ref="char:EOLhyphen"/>not be diſhonoured, but in the latter hee may<note n="c" place="margin">Mal. 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rom. 2.2</note> ; even as Children by their diſobe<g ref="char:EOLhyphen"/>dience doe not render their Parents diſho<g ref="char:EOLhyphen"/>nourable<note n="d" place="margin">Mat. 1 4, 5, 6,</note>, but diſhonoured<note n="e" place="margin">Mic. 7.</note>.</p>
+               <p n="21">21. Doubt. <hi>How can men in juſtice be<g ref="char:EOLhyphen"/>come lyable to eternall puniſhment for ſin com<g ref="char:EOLhyphen"/>mitted in time, and it may bee in a ſhort time?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> 1. They are committed againſt an eternall <hi>God,</hi> and therefore are alwayes (as it were) in committing before, and a<g ref="char:EOLhyphen"/>gainſt him.</p>
+               <p n="2">2. If men might live eternally, they would ſin eternally; and God puniſheth accor<g ref="char:EOLhyphen"/>ding to the rebellion of their wils.</p>
+               <p n="3">3. Though puniſhed in Hell, thay ſtill retaine their enmity againſt God, and therefore juſtly is their penalty continu<g ref="char:EOLhyphen"/>ed.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="16" facs="tcp:169824:13"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Of the Law of God, and of the two Covenants.</head>
+               <p n="22">22. Doubt. <hi>IF the Covenant of workes be for ſubſtance comprehen<g ref="char:EOLhyphen"/>ded in the ten Commandements, how can Chri<g ref="char:EOLhyphen"/>ſtians which are free from the Law be bound to obſerve them?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> The Law of the Ten Commande<g ref="char:EOLhyphen"/>ments containeth the matter of the Cove<g ref="char:EOLhyphen"/>nant of workes, but is not the Covenant formally, any more then the Copy of a Leaſe written by a private hand,<note place="margin">Simile,</note> having ne<g ref="char:EOLhyphen"/>ver been ſealed and delivered according to Law, is the Leaſe it ſelfe: The matter of the Covenant without the forme, cannot ſufficiently conſtitute it. Now the forme of the Covenant of workes is the condition whereupon the duty is undertaken: <hi>Viz. Doe this and live;</hi> Life is promiſed upon perfect obedience, damnation threatned upon the leaſt diſobedience. The Goſpell indeed requireth the ſame things, but not upon the ſame tearmes, for whereas the ſame Covenant of workes ſaith, <hi>Doe this and live,</hi> the Goſpell ſaith, <hi>Live and do this.
+<pb n="17" facs="tcp:169824:13"/>Chriſt</hi> hath freed us from the Law, as it is a compeller and condemner, but not as it is a directory, or (to ſpeake properly) we are freed from the Covenant of workes as it is ſuch, but not from the things therein con<g ref="char:EOLhyphen"/>tained: even as a Servant which obeyed his Maſter out of ſlaviſh feare, or for wages, if his Maſter adopt him, and make him his heyre, though he ſtill be bound to doe the ſame things, yet foraſmuch as he acteth from different Principles, <hi>Viz.</hi> of love, thankfulneſſe, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reverence, he is perfectly free from that Covenant which <hi>(as a Servant)</hi> he made with his Maſter. In like manner the adopted Sonnes of God, (though they are to act the ſame things that the Law of works required) yet in as much as they doe them not to be juſtified and live, but becauſe they <hi>are juſtified,</hi> and <hi>doe live;</hi> nor are bound to them under the pe<g ref="char:EOLhyphen"/>nalty of revenging wrath, but fatherly cha<g ref="char:EOLhyphen"/>ſtiſement) are perfectly ſet at liberty from the Covenant of workes.</p>
+               <p n="23">23. Doubt. <hi>If the Covenant on</hi> Mount Si<g ref="char:EOLhyphen"/>nai <hi>was a Covenant of grace (as it muſt needs be, becauſe in it was forgiveneſſe of ſins) How can Chriſt be ſayd to be a Mediator of a better Covenant then</hi> Moſes? <hi>better and worſe ſeeme to intimate there be two Covenants of grace.</hi>
+               </p>
+               <pb n="18" facs="tcp:169824:14"/>
+               <p>
+                  <hi>Reſol.</hi> They are not called better and worſe in reſpect of the matter or ſubſtance of them, but in the manner of diſpenſation. When we compare two Bookes of the ſame nature together (as ſuppoſe they treat of <hi>Grammar, Logick,</hi> or <hi>Phyloſophy</hi>) the one treating in a prolix, darke, and confuſed manner, the other in a briefe, methodicall, and plaine way, and ſay this is better then that, we doe not meane that the ſubject matter of the one is better then the other, but onely the excellency is in the method and expreſſion. So when the Covenant <hi>of Grace,</hi> as it is handed to us by Chriſt, is preſerred before the ſame, as it is ſet forth by <hi>Moſes</hi> in types and ſhedowes, we muſt underſtand it of the perſpicuity and com<g ref="char:EOLhyphen"/>pendiouſneſſe of the adminiſtration, toge<g ref="char:EOLhyphen"/>ther with the freedome from burdenſome Ceremonies, not of the Covenant it ſelfe, for that is one and the ſame to them and us<note n="a" place="margin">1 Cor. 10 1, 2, 3, 4.</note>.</p>
+               <p n="24">24. Doubt. <hi>How can the Jewes Covenant and ours, be all one, when as in theirs, forgive<g ref="char:EOLhyphen"/>neſſe was not for every ſin (namely, not for</hi> preſumptuouſneſſe<note n="b" place="margin">Num. 15.30.</note>, <hi>nor</hi> uncircumciſion<note n="c" place="margin">Gen. 17.14.</note>) <hi>nor of all their ſin at once, but by degrees ſuc<g ref="char:EOLhyphen"/>ceſſively, for when they had offered Sacrifice for one tranſgreſſion, they lay under the next till
+<pb n="19" facs="tcp:169824:14"/>Sacrifice was againe offered: But</hi> Chriſt <hi>hath at once payd a full price, and acquitted us from all our ſins?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> With reverence to the learned Au<g ref="char:EOLhyphen"/>thor from whom this doubt ariſeth, I be<g ref="char:EOLhyphen"/>leeve it is a great miſtake to ſay, the Jewes Covenant had not remi2ſion of all ſins. That the preſumptuous ſinner and uncircumciſed perſon muſt be cut off, the places forequo<g ref="char:EOLhyphen"/>ted prove, but this cutting off was excom<g ref="char:EOLhyphen"/>munication, or a loſſe of their part in the externall Covenant of God, till the one re<g ref="char:EOLhyphen"/>pented, the other became circumciſed, and cannot be underſtood of an unpardonable condition, for that either uncircumciſion, or preſumption (eſpecially this ſort of pre<g ref="char:EOLhyphen"/>ſumption in the Text alleadged, being op<g ref="char:EOLhyphen"/>poſed onely to ignorance) was unpardon<g ref="char:EOLhyphen"/>able, and therefore all damned that were defiled with them (as it muſt needs follow) is not onely unproved, but diſproved by Scripture<note n="d" place="margin">Joſ. 5.2, 3, 4, &amp;c. Rom. 2.26. 2 Sam. 12.13. 2 Chro. 33.10, 11, 12, 13, 14, 15, 16.</note>. Nor is there any more force in that which is alleadged concerning the gra<g ref="char:EOLhyphen"/>duality of forgiveneſſe, for the Sacrifices did not of themſelves make the attonement, but as Ordinances typifying <hi>Chriſt</hi> they did (as it were) Sacramentally apply and ſeale the pardon of ſin to the conſcience, as they ſhould from time to time offend and
+<pb n="20" facs="tcp:169824:15"/>ſtand in need of pardon; but that <hi>Chriſt</hi> did at once beare the ſins of Beleevers, as well Jewes before his comming, as Gentiles ſince, is plaine by that clauſe ſo much ſtood upon by the reverend Author, <hi>The Lord hath layd on him the iniquity of us all</hi>
+                  <note n="e" place="margin">Iſa. 53.6.</note>, and ma<g ref="char:EOLhyphen"/>ny other places<note n="f" place="margin">Rev. 13.8 Gal. 4.4, 5. Iſa. 53.5.</note>.</p>
+               <p n="25">25. Doubt. <hi>How could the Covenant on</hi> Sinai <hi>be a Covenant of grace, ſeeing the Apo<g ref="char:EOLhyphen"/>ſtle calls it a killing Letter, and a miniſtration of death and condemnation</hi>
+                  <note n="g" place="margin">2 Cor. 3.6, 7, 9.</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> I conceive the Apoſtles meaning was not that the whole Covenant on <hi>Sinai</hi> beginning, <hi>Exod.</hi> 20. and ending with <hi>Levit.</hi> 26. was a killing letter, <hi>&amp;c.</hi> For the Sacrifices and Ceremonies typifyed <hi>Chriſt,</hi> and ſealed forgiveneſſe of ſins, and reconci<g ref="char:EOLhyphen"/>liation to God<note n="*" place="margin">If you ob<g ref="char:EOLhyphen"/>ſerve this diſtinction, you may ea<g ref="char:EOLhyphen"/>ſily anſwer to all argu<g ref="char:EOLhyphen"/>ments built upon any o<g ref="char:EOLhyphen"/>ther Scrip<g ref="char:EOLhyphen"/>ture, which ſeems to aſ<g ref="char:EOLhyphen"/>ſert that the Jewes lived under a Co<g ref="char:EOLhyphen"/>venant of workes.</note>. But <hi>Moſes</hi> is there to be conſidered, as he was the Miniſter of the Decalogue, or ten Commandements, with<g ref="char:EOLhyphen"/>out reſpect had to the Types and Ordinan<g ref="char:EOLhyphen"/>ces whereby <hi>Chriſt</hi> was ſignified; and that this is not my private opinion, but the ſenſe of the place, may appeare by two reaſons.</p>
+               <p n="1">1. We are told (<hi>Verſ.</hi> 7.) that this miniſtration of death was engraven on ſtones, but onely the ten Commandements were ſo engraven<note n="h" place="margin">Exo. 34.1.28.</note> ; therefore he onely meaneth them.</p>
+               <pb n="21" facs="tcp:169824:15"/>
+               <p n="2">2. The <hi>Apoſtle</hi> here ſpeaks of a miniſtra<g ref="char:EOLhyphen"/>tion about which <hi>Moſes</hi> was imployed when his face ſhone<note n="i" place="margin">2 Cor. 3.7.13.</note> : But this glory was vouchſafed him when he received the ten Commandements alone<note n="k" place="margin">Exo. 34.28, 29, 30.</note>, therefore them onely he meaneth; and to ſpeak the truth, the Contents of the two Tables being re<g ref="char:EOLhyphen"/>ceived alone, as <hi>Moſes</hi> brought them down in his hands, not as in ſubordination to <hi>Chriſt</hi> the Mediator, but as a ſervant of God the Creator, proclaiming his exact and rigid Law, muſt needs be a Covenant of workes; though the ſame being received in ſubordination to <hi>Chriſt</hi> (which was truly (though more dimly) held forth in theſe Ceremoniall obſervances) hinders not, but that <hi>Iſrael</hi> lived under a Covenant of grace.</p>
+               <p n="26">26. Doubt. <hi>When the</hi> Apoſtle <hi>blameth the</hi> Galatians <hi>for revolting from the Goſpell to the Law, what Law meaneth he, the morall or Ceremoniall?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> With ſubmiſſion to better judge<g ref="char:EOLhyphen"/>ments, I beleeve he meanes the whole Co<g ref="char:EOLhyphen"/>venant on <hi>Sinai</hi> containing both the Mo<g ref="char:EOLhyphen"/>rall and Ceremoniall Law, which was a Covenant of grace, when Morall duties were preſſed in ſubordination and obedi<g ref="char:EOLhyphen"/>ence to <hi>Chriſt</hi> the King of the Church, and
+<pb n="22" facs="tcp:169824:16"/>Ceremoniall, as typifying him to come: But when their imperfect obedience of the morall Law<note n="l" place="margin">Gal. 3.10, 11, 12, 18. &amp; 4.21.</note>, and rotten Ceremonies long before aboliſhed<note n="m" place="margin">Gal. 4.9.10. &amp; 5.6.</note>, were cryed up, and reſt<g ref="char:EOLhyphen"/>ed in for juſtification and life eternall, they became an unſupportable yok of bondage<note n="n" place="margin">Gal. 5.1, 3 Acts 15.10</note>, binding men under a Covenant of works<note n="o" place="margin">Gal. 5.3.</note>, and making the death of <hi>Chriſt</hi> (as to them) of none effect<note n="p" place="margin">Gal. 2.21. &amp; 5.2.</note>.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of Chriſt the Mediator.</head>
+               <p n="27">27. Doubt. <hi>HOW could</hi> Chriſt <hi>be ſent by his Father, and yet be equall to him, ſeeing the Scripture ſaith, He is greater that ſends, then he which is ſent?</hi>
+               </p>
+               <p>
+                  <hi>Reſol. Chriſt</hi> as <hi>God</hi> is equall to his <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> but as Mediator (in which capacity, he was ſent) an inferiour to him<note n="a" place="margin">Phil. 2, 6, 7.</note>.</p>
+               <p n="28">28. Doubt. <hi>If Chriſt payd a full price to his Father for the redemption of mankind, how can the ſalvation of the Elect be attributed to the grace of God?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Had it not been for the grace and mercy of God, <hi>Chriſt</hi> had not been beſtow<g ref="char:EOLhyphen"/>ed
+<pb n="23" facs="tcp:169824:16"/>on us<note n="b" place="margin">Joh. 3.16</note> ; nor needed God to have given way that <hi>Chriſt</hi> ſhould be ſurety for us, though he had been moved to that end, al<g ref="char:EOLhyphen"/>though when God had accepted him as ſurety, and layd the whole debt upon him, till he was fully ſatisfied; he is bound in faithfulneſſe and juſtice it ſelfe to forgive us our ſins<note n="c" place="margin">1 Joh. 1.9</note>. A creditor needs not to take a Surety for a debt already due, unleſſe him<g ref="char:EOLhyphen"/>ſelfe pleaſe, and if he doe, it is a curteſie to the Debtor (for if he will he may lay him by it, till he pay or rot) yet if he doe accept of a Surety, and lay the debt upon him, and be accordingly payd and ſatisfi<g ref="char:EOLhyphen"/>ed, he cannot require it again, but is bound in juſtice, Law, and conſcience to acquit the principall: In like manner, God with<g ref="char:EOLhyphen"/>out wrong to mankinde might have bound them over to eternall puniſhment in their owne perſons, without accepting any other to be bound for them; but having accep<g ref="char:EOLhyphen"/>ted of <hi>Chriſt</hi> to enter bond with them, and received the whole ſumme from him, ac<g ref="char:EOLhyphen"/>knowledging the receit thereof under his owne hand and ſeale, he cannot in righte<g ref="char:EOLhyphen"/>ouſneſſe charge it againe upon us.</p>
+               <p n="29">29. Doubt. <hi>If</hi> Chriſt <hi>have fully ſatisfied his Fathers juſtice for the Elect, ſo that all (and onely) they that are in</hi> Chriſt <hi>have their
+<pb n="24" facs="tcp:169824:17"/>ſins pardoned, how can any man aske for give<g ref="char:EOLhyphen"/>neſſe of ſins? If they be in</hi> Chriſt <hi>it ſeems to be ſuperfluous, if not, ſinfull; for whatſoever one that is out of</hi> Chriſt <hi>doth is ſinfull.</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Whether men be in Chriſt or no, they ought to pray for pardon of ſin<note n="d" place="margin">Mat. 6.12 Luke 11.4. Acts 8.22.</note> : for although thoſe which are in Chriſt be free from damnation, yet not from correction for their failings<note n="c" place="margin">2 Sam. 12 14 Pſal. 89.30, 31, 32, 33, 34.</note>. And therefore have cauſe to pray that God would neither hide his face from them, nor afflict them for it. And though a man be in the ſtate of nature, yet prayer being an Ordinance of God, and a duty incumbent to every one<note n="f" place="margin">Pſal. 79.6 Jer. 10.25.</note>, in the uſe whereof God is pleaſed to let forth himſelfe and vouchſafe a diſcovery of <hi>Chriſt</hi>
+                  <note n="g" place="margin">Acts 10.30.</note>, every one ſhould beware of ſleigh<g ref="char:EOLhyphen"/>ting it; for although the prayer of a wick<g ref="char:EOLhyphen"/>ed perſon be ſinfull, and therefore may be thought unprofitable, ſo is their hearing of the Word without Faith<note n="h" place="margin">Heb. 4.3.</note>, and yet they muſt heare that they may have Faith<note n="i" place="margin">Rom. 10.14, &amp;c.</note> : Yes its generally ſayd, whatſoever is not of Faith is ſin<note n="k" place="margin">Rom. 14.23.</note> ; and without Faith it is im<g ref="char:EOLhyphen"/>poſſible to pleaſe God<note n="l" place="margin">Heb. 11.6,</note>, inſomuch that the plowing of the wicked is iniquity<note n="m" place="margin">Pro. 23.4</note>. And yet I doe not thinke any man holdeth that faithleſſe men are to forbeare every thing, and wicked men plowing. No more muſt
+<pb n="25" facs="tcp:169824:17"/>naturall men forbeare praying, becauſe they cannot pray as they ought, but ra<g ref="char:EOLhyphen"/>ther be more ſerious and frequent that God in his owne Ordinance may meet with them, and work upon their hearts effectu<g ref="char:EOLhyphen"/>ally.</p>
+               <p n="30">30. Doubt. <hi>I can eaſily grant that we may pray for aſſurance of pardon, but for the pardon it ſelfe we may not, becauſe every Elect perſon (and reprobates are excluded from par<g ref="char:EOLhyphen"/>don) hath all his ſinnes paſt, preſent, and to come, layd upon</hi> Chriſt: <hi>And therefore though be be in the height of his ſinnes, he ſtands in no more need of pardon then a Saint in Hea<g ref="char:EOLhyphen"/>ven: Hence it is, that ſome Goſpell-Preachers of theſe dayes expound</hi> [forgive us our debts or ſins] <hi>to ſignifie no more but</hi> [manifeſt to us that our fins are forgiven us] <hi>And when</hi> David <hi>begs pardon of ſinne, it was ei<g ref="char:EOLhyphen"/>ther becauſe he lived under an imperfect Cove<g ref="char:EOLhyphen"/>nant, wherein remiſſion was obtained ſucceſ<g ref="char:EOLhyphen"/>ſively, as ſacrifice was offered; or elſe he was under a temptation, as in another caſe, when be charged</hi> GOD <hi>to have forgotten to be gra<g ref="char:EOLhyphen"/>cious</hi>
+                  <note n="n" place="margin">Pſal. 77.7, &amp;c.</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> Thoſe which make this objection doe ordinarily diſtinguiſh (in the pardon of ſin) betwixt Gods decree to forgive, and the manifeſtation hereof; but they
+<pb n="26" facs="tcp:169824:18"/>leave out a third thing, without which the enumeration is imperfect, to wit the execu<g ref="char:EOLhyphen"/>tion of this decree; from want whereof, all theſe miſtakes ariſe: For the actuall pardoning of ſin conſiſts neither in the de<g ref="char:EOLhyphen"/>cree nor manifeſtation of pardon, but it is a thing diſtinct from them both, following the one, and leading the other in the order of nature and time.</p>
+               <p>For when a Malefactor is condemned, and his Soveraigne purpoſeth in his heart to pardon him, this intention of his (ſup<g ref="char:EOLhyphen"/>poſe it be unalterable) is but a purpoſe to pardon, not to pardon formally; nor yet though the manifeſtation thereof be added, except it be in a judiciall way, for though it be never ſo well knowne that the King intends to forgive him, yet he is not for<g ref="char:EOLhyphen"/>given till his pardon be ſealed, and confir<g ref="char:EOLhyphen"/>med according to Law: and then his aſſu<g ref="char:EOLhyphen"/>rance and ſelfe ſatisfaction ariſeth from the ſight or knowledge thereof. In like man<g ref="char:EOLhyphen"/>ner, though God hath choſen the Elect be<g ref="char:EOLhyphen"/>fore the World was, that they ſhould re<g ref="char:EOLhyphen"/>ceive in Chriſt the forgiveneſſe of ſins, and this his decree unalterable (and as to God before whom all things are preſent) they are already pardoned, in the ſame manner that Chriſt is called the Lambe ſlaine from
+<pb n="27" facs="tcp:169824:18"/>the beginning of the World for the certain<g ref="char:EOLhyphen"/>ty and efficacy thereof, though he was a<g ref="char:EOLhyphen"/>ctually put to death till the fulneſſe of time, yet (as to them) the pardon hath not actuall exiſtence, till God give them Faith in <hi>Chriſt,</hi> whereby they receive the actone<g ref="char:EOLhyphen"/>ment; but till they beleeve, they want not onely the aſſurance of forgiveneſſe, but for<g ref="char:EOLhyphen"/>giveneſſe it ſelfe, for they are <hi>Children of wrath</hi>
+                  <note n="o" place="margin">Joh. 3.36 Eph. 2.3.</note>, and <hi>condemned perſons</hi>
+                  <note n="p" place="margin">Joh. 3.19</note>. This conſidered, I cannot but greatly wonder, that any learned man ſhould without war<g ref="char:EOLhyphen"/>rant of Scripture, and againſt the ſtreame of Commentators, expound <hi>[forgive]</hi> to ſignifie <hi>[declare forgiveneſſe]</hi> (a thing vaſt<g ref="char:EOLhyphen"/>ly different, though ſubordinate to it) up<g ref="char:EOLhyphen"/>on one ſlender reaſon, not to be owned by ſuch a man. For what though a man ought to pray in Faith, and this Faith demon<g ref="char:EOLhyphen"/>ſtrates that our ſins are already pardoned; (which is the ſtrength of the reaſon brought) ſeeing I have proved before<note n="q" place="margin">Doubt. <hi>30.</hi> anſwered.</note>, that a Beleever is not free from correction, though from condemnation be is. As for <hi>David</hi> I have before<note n="r" place="margin">In the Re<g ref="char:EOLhyphen"/>ſolution of the <hi>25.</hi> Doubt.</note> overthrowne the pre<g ref="char:EOLhyphen"/>tended difference between the Covenant of Crace under which he lived, and that whereunder we live: Nor can I think that he was under any temptation when he writ
+<pb n="28" facs="tcp:169824:19"/>the 25. and 51. <hi>Pſalmes,</hi> in which he fre<g ref="char:EOLhyphen"/>quently beggeth pardon: I readily grant that ſome paſſages of the 77. <hi>Pſalme,</hi> were ſpoken in ſuch a temper, for himſelfe tells us ſo<note n="ſ" place="margin">Verſ. 10.</note> : but that any thing in theſe Pſalme<note n="t" place="margin">Viz. 25. &amp; 51.</note> was ſo ſpoken, is impoſſible to be proved, either by themſelves or any other Scripture, which is a ſtrong argument to me that he was himſelfe, and did not perſonate a Be<g ref="char:EOLhyphen"/>leever in his ſinfull doubtings, when he ſpoke thus; eſpecially conſidering that he ſeldome or never leaves any Errour on re<g ref="char:EOLhyphen"/>cord without ſome daſh or brand to know it by: And therefore till ſome man ſhew me as good ground to prove him under a temp<g ref="char:EOLhyphen"/>tation when he asked forgiveneſſe, as when he ſayd, <hi>God had forſaken him;</hi> I ſee no rea<g ref="char:EOLhyphen"/>ſon why the places ſhould be parallel'd, and the one expounded by the other.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. VIII.</hi> Of Free-will.</head>
+               <p n="31">31. Doubt. <hi>HOw can any be ſaid to have Free-will, where<g ref="char:EOLhyphen"/>as naturall men are taken captive by Satan at his will</hi>
+                  <note n="a" place="margin">2 Tim. 2.26.</note>, <hi>and thoſe which come to Chriſt are drawne by the Father</hi>
+                  <note n="b" place="margin">Joh. 6.44</note>?</p>
+               <pb n="29" facs="tcp:169824:19"/>
+               <p>
+                  <hi>Reſol.</hi> The will of man may be depraved by corruption, or regulated by grace; but deſtroyed or violently forced by neither: One may be ſo powerfully perſwaded by reaſons and importunity that he cannot ſay nay, and yet not neceſſitated to yeild or deny, but acteth freely: So in the will of man, though corruption be ſo forcible and prevalent in its inſtigations in the unrege<g ref="char:EOLhyphen"/>nerate, that they cannot but will and act iniquity, yet is not the will violently hur<g ref="char:EOLhyphen"/>ried and dragged (like a Beare to the ſtake, as we ſay) but complyingly, as when a blind man is led by another; and when as grace acts the will, it doth not take it pri<g ref="char:EOLhyphen"/>ſoner, or carry it headlong, but per<g ref="char:EOLhyphen"/>ſwades it; for when <hi>Chriſt</hi> draweth, his people become willing<note n="c" place="margin">Pſal. 110.3.</note>, and run after him<note n="d" place="margin">Can. 1.4.</note>.</p>
+               <p n="32">32. Doubt. <hi>Let mee underſtand you tho<g ref="char:EOLhyphen"/>rowly; Doe you meane that man ſince the fall hath Free will to good or evill, ſo that he wants no power, but will onely, to beleeve and repent?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> By no meanes, no more then a mad, or poſſeſſed man can diſpoſe of his owne ſtrength for his owne good: For though I hold that the will of man is not loſt, nor abſolutely determined this way,
+<pb n="30" facs="tcp:169824:20"/>or that, by any inevitable neceſſity in cauſes purely naturally, yet withall I aſſerted, that by the fall of man, the will is wholly depraved, and as long as corruption is the guide, it muſt needs act corruptly, and not otherwiſe. To make this plaine, conſider one of the <hi>Simile's</hi> I uſed concerning a blind man led by another: You know a blind man followeth his leader freely (that is, he is not haled or dragged away forcibly) which notwithſtanding I hope no man will ſay, that a blind man which relyeth whol<g ref="char:EOLhyphen"/>ly on the guidance of his leader, can goe whither he will, and eſcape all dangerous places of himſelfe, but according to his guide ſo is his going. So the will of man acts freely, but it ſeeth not by its owne eyes, but is guided by the underſtanding, which becauſe of corruption is a falſe guide to it; and therefore untill God by his ſpirit ſan<g ref="char:EOLhyphen"/>ctifie the underſtanding, to be a faithfull guide to the will, it muſt needs act perverſly, though freely.</p>
+               <p n="33">33. Doubt. <hi>If a man in his naturall con<g ref="char:EOLhyphen"/>dition cannot doe good or evill as himſelfe wil<g ref="char:EOLhyphen"/>leth, why is he blamed for it, or exhorted to amend?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> If a man by his owne unthrifti<g ref="char:EOLhyphen"/>neſſe make away his eſtate, is he not ſtill
+<pb n="31" facs="tcp:169824:20"/>ſuable for his debts, though unable to pay them? And when God gave us ability to doe his will, and we loſt it through our owne default, are we not ſtill debtors to his juſtice? May not he blame us for mak<g ref="char:EOLhyphen"/>ing oure ſelves uncapable? And whereas the Scripture calleth on us for amendment, it is to convince us of our wants and inſuf<g ref="char:EOLhyphen"/>ficiencie, that we may the more ſeriouſly ſeek to him, that hath promiſed to eaſe and heale them. The Prophet bids us make our ſelves new hearts<note n="e" place="margin">Ezek. 18 31.</note>, and yet <hi>David</hi> deſires God to doe it<note n="f" place="margin">Pſal. 51.10.</note> : So then it muſt be our aime, but Gods act<note n="g" place="margin">Rom. 9.16.</note>.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP. IX</hi> Of Calling, Juſtification, Adoption, Sanctification, Faith, Repentance, and good Workes.</head>
+               <p n="34">34. Doubt. <hi>IF God love his people when they are in their blood</hi> (i. e. <hi>in the height of their ſinne) what need they to be called juſtified, adopted, and ſanctified? For if God love them he will ever love them, and therefore they muſt needs be ſaved, though they were never called, &amp;c.</hi>
+               </p>
+               <pb n="32" facs="tcp:169824:21"/>
+               <p>
+                  <hi>Reſol.</hi> I might aske you a like queſtion; If God loved the World<note n="a" place="margin">Joh. 3.16</note>, why ſhould he give his Son for it, ſeeing whom he once loveth he ever loveth? The truth is, the <hi>LORD</hi> loveth his Elect whileſt they are finners, but not as they are ſinners. A man may like a piece of Land, which as yet brings forth nothing but thornes and bry<g ref="char:EOLhyphen"/>ers, not becauſe ſuch, or that of it ſelfe it will grow better, but that by his owne worke he can make it fruitfull: So God loveth an Elect ſinner, but it is with reſpect to his owne graces in time to be planted in them<note n="b" place="margin">Eph. 1.4. &amp; 2.10.</note> : And therefore it is neceſſary that thoſe which God from eternity loves, be in time called by the Word and Spirit (ex<g ref="char:EOLhyphen"/>cept ſuch as are incapable) they being created in Chriſt Jeſus unto good workes, <hi>&amp;c.</hi>
+                  <note n="c" place="margin">See the Scripture laſt cited.</note>.</p>
+               <p n="35">35. Doubt. <hi>If we be juſtified</hi> freely<note n="d" place="margin">Rom. 32.4.</note>, <hi>how can God have reſpect to</hi> Faith, <hi>in juſtifying us?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> As a hand receiving a gift, hinders not but the gift may be free, though per<g ref="char:EOLhyphen"/>haps ſuch a thing as cannot be received without a hand to take it; even ſo <hi>Chriſt</hi> for our juſtification is freely beſtowed on us, though we cannot poſſibly receive him without Faith, howſoever he may be ten<g ref="char:EOLhyphen"/>dered
+<pb n="33" facs="tcp:169824:21"/>to us. But that all cauſe of objection againſt the freeneſſe of this worke on Gods part, may be abundantly removed, even Faith it ſelfe (the hand which receiveth Chriſt and all his benefits<note n="e" place="margin">Joh. 1.12.</note>) is freely gi<g ref="char:EOLhyphen"/>ven us<note n="f" place="margin">Eph. 2.8.</note>.</p>
+               <p n="36">36. Doubt. <hi>What need we ſanctification, repentance, or good workes, if we be juſtified by Faith alone</hi>
+                  <note n="g" place="margin">Rom. 3.28</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> Faith which juſtifieth is not alone, though Faith alone juſtifie (instrumen<g ref="char:EOLhyphen"/>tally I meane, elſe it is God that juſtifieth<note n="h" place="margin">Rom. 8.33</note>) for as the fruit-bearing tree is not without leaves, though the fruit ſoring not from the leaves, either by intervention or concur<g ref="char:EOLhyphen"/>rence, but from the tree immediately: So a lively and juſtifying Faith purifieth the heart<note n="i" place="margin">Acts 15.9</note> from which ſanctification and good workes have their riſe. And therefore that Faith which in due time doth not ſhew it ſelfe in workes, is not a ſaving, but a dead Faith<note n="k" place="margin">Jam. 2.17 18, 19, 20</note> ; though they neither prevent, not aſſiſt Faith in the act of juſtification.</p>
+               <p n="37">37. Doubt. <hi>If Chriſt and all his benefits belong to Beleevers, how can Heaven be con<g ref="char:EOLhyphen"/>ferred on perſons as a reward for their good workes?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Heaven is not beſtowed on any by way of juſt recompence of his workes, for
+<pb n="34" facs="tcp:169824:22"/>the beſt are <hi>unprofitable Servants</hi>
+                  <note n="l" place="margin">Luke 17.10.</note> ; how then can their workes purchaſe Heaven? But God who can as well reward accor<g ref="char:EOLhyphen"/>ding to workes in mercy<note n="m" place="margin">Pſal. 62.12.</note> : as Juſtice doth abundantly repay them for all their paines and ſervice, by putting them in poſſeſſion of that Kingdome which he ever intended them, without reſpect had to the worth of their workes,<note place="margin">Simile.</note> or repentance. <hi>A Father at his death doth abundantly reward his Sonne for his obedience, when be gives him his Lands, although he had long before, out of meere Fa<g ref="char:EOLhyphen"/>therly offection ſtated them on him:</hi> So God uſeth to reward thoſe that ſerve him with the ſame things which before he had freely promiſed them. Upon <hi>Abrahams</hi> obeying of God, and non-reſuſing to offer up his onely Son, God promiſed him a large re<g ref="char:EOLhyphen"/>ward; and this is, that he ſhall have a nu<g ref="char:EOLhyphen"/>merous and happy ſeed, wherein alſo all Nations ſhould be bleſſed<note n="n" place="margin">Gen. 22.15, 16, 17, 18.</note> : And yet that which is here bequeathed to <hi>Abraham,</hi> as a reward of his obedience, was before this time ſteated on him by free promiſe<note n="o" place="margin">Gen. 12.2 &amp; 15.5.</note>. In the ſame manner and order God rewards his people for their obedience and ſervice to him done, when he beſtowes on them that heavenly Kingdome which hee purpoſed ſhould be their inheritance before the world was.</p>
+               <pb n="35" facs="tcp:169824:22"/>
+               <p n="38">38. Doubt. <hi>What need we to beleeve, ſee<g ref="char:EOLhyphen"/>ing</hi>
+                  <note n="p" place="margin">2 Tim. 2.13.</note> 
+                  <hi>GOD will be faithfull though we beleeve not?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> The Originall Word which is tranſlated [<hi>we beleeve not</hi>
+                  <note n="q" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>] is not only ſuch a word as denotes the preſent time<note n="r" place="margin">
+                     <hi>1</hi> Viz. being the preſent tenſe.</note>, but alſo it, and another of affinity with it<note n="ſ" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>, are frequently uſed for the heſitations and ſtaggerings of the faithfull; and doth not import a privation of the habit of Fiath by infidelity (for that is damnable<note n="t" place="margin">Mark 16.16. Joh. 3.36. Mat. 17, 20 Mark. 9.24 &amp; 16.11, 14. Luke 24.11, 41.</note>) But onely a negation (or rather a ſuſpending) of Faiths acting in ſome juncture of time, which the Text quoted in the Margent will ſufficiently cleare, eſpecially to him that is able to peruſe the <hi>Greeke</hi> Copy: And there<g ref="char:EOLhyphen"/>fore I can ſee no more in the Text alleadg<g ref="char:EOLhyphen"/>ed but only thus much; If we beleeve not, that is, if for the preſent (or ſometimes) we by reaſon of weakneſſe, diſcontinue or intermit actuall beleeving, not being able to hold to a conſtant courſe in acting Eaith on the promiſes of God, we muſt not mea<g ref="char:EOLhyphen"/>ſure God by our ſelves, as if he ſtarted aſide from us, as often as we from him, but will ſtill remaine faithfull, which if he ſhould not doe, it could be no leſſe to him, who by an excellency is called faithful, and is faith<g ref="char:EOLhyphen"/>fulneſſe in the abſtract, then a denyall of himſelfe.</p>
+               <pb n="36" facs="tcp:169824:23"/>
+               <p n="39">39. Doubt. <hi>How can we be ſayd to have faith, and yet cannot worke miracles</hi>
+                  <note n="u" place="margin">Mat. 17.20.</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> The ordinary anſwer is (as I take it) that Chriſt in the place cited, meaneth not Faith in the generall, much leſſe juſti<g ref="char:EOLhyphen"/>fying Faith in ſpeciall, but a certaine ſort of Faith (ſpecifically different from the ſaving) whoſe adequate and was miracle-working, whereof he was then treating; which diſtinction other Scriptures will ſuf<g ref="char:EOLhyphen"/>ficiently warrant<note n="w" place="margin">Mat. 7.22. 1 Cor. 13.2</note> : But a learned man of theſe dayes hath a more ſubtile notion, which is, that Faith is a reſting on a pro<g ref="char:EOLhyphen"/>miſe, without which it is not Faith, but preſumption: And ſo the ſenſe is, that whatſoever God promiſeth, we may beleeve and hope for, and accordingly will the iſſue be, how difficult ſoever it appeare.</p>
+               <p n="40">40. Doubt. <hi>If the perſons and actions of Beleevers be not perfectly free from ſinne, how can either of them be accepted with God, which bates and abborres it?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> God indeed hates and abhors the ſins of the Elect, yet their ſins being layd upon Chriſt, nothing hinders why their perſons and actions may not be accepted through him.</p>
+               <p n="41">41. Doubt. <hi>If no ſin can be ſo great, but upon repentance it may be pardoned, how comes
+<pb n="37" facs="tcp:169824:23"/>the ſinne againſt the</hi> holy Ghoſt <hi>to he un<g ref="char:EOLhyphen"/>pardonable?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> No ſin for the matter of it can be ſo great but it may be pardoned, but that wicked action, which conſidered ſimply, might be forgiven, may through the con<g ref="char:EOLhyphen"/>currence of aggravating circumſtances be<g ref="char:EOLhyphen"/>come unpardonable. Two men may be guilty of the ſame kind of tranſgreſſion (if reſpect be had only to the materiality of it) and yet the one ſin againſt the holy Ghoſt, the other not. <hi>Paul</hi> blaſphemed and was for<g ref="char:EOLhyphen"/>given<note n="x" place="margin">1 Tim. 1.13.</note>, the <hi>Scribes and Phariſees</hi> blaſphe<g ref="char:EOLhyphen"/>med and could never be forgiven<note n="y" place="margin">Mat. 12.24, 31, 32. Mark 3, 22 28, 29.</note>, for he did it of ignorance, they out of ſpite and malice: So that as bad an act may be for<g ref="char:EOLhyphen"/>given, as forgiveneſſe is denyed to: But the maine reaſon why this ſin where it is found cannot be pardoned, is, that they being convinced of the truth, and yet ſtill reſiſt<g ref="char:EOLhyphen"/>ing it, are given up to deluſions to beleeve lyes<note n="z" place="margin">2 Theſ. 2.10, 11, 12. <hi>Simile.</hi>
+                  </note>, and ſo goe on to damnation. For as a wound which would be found curable enough, if good Salve were in due time ap<g ref="char:EOLhyphen"/>plyed thereto, may be the death of the man, if he be diſtracted and will ſuffer nothing to be layd to it; ſo though no tranſgreſſion can be ſo vile as to be ſimply unpardonable, yet if it be accompanied with ſuch circum<g ref="char:EOLhyphen"/>ſtances,
+<pb n="38" facs="tcp:169824:24"/>that impenitency muſt needs fol<g ref="char:EOLhyphen"/>low (as here it alwayes doth) it can never be forgiven.<note place="margin">Deering on Heb. <hi>p.</hi> ult.</note> But on the other ſide (as ſaith learned <hi>Maſter Deering</hi>) he that carefully repenteth and trembleth at the thought of this ſin, is farre from it is the <hi>Eaſt</hi> is from the <hi>Weſt.</hi>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. X.</hi> Of Perſeverance, and Aſſurance.</head>
+               <p n="42">42. Doubt. <hi>IS it not a ready courſe to make men careleſſe of their wayes, when they are taught they can never fall away from grace?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> No, but rather a great encourage<g ref="char:EOLhyphen"/>ment to be diligent<note n="a" place="margin">1 Pet. 1.5 13. 2 Pet. 1.10</note>, for he that would not ſerve God out of love, though he no<g ref="char:EOLhyphen"/>ching benefited himſelfe thereby, is not yet in the ſtate of grace, and then what have ſuch to doe with perſeverance? But he that is truely godly, finding himſelfe to be de<g ref="char:EOLhyphen"/>livered from his enemies, will ſerve him without feare, in holineſſe and righteouſ<g ref="char:EOLhyphen"/>neſſe before him all the dayes of his life<note n="b" place="margin">Luke 1.74, 75.</note> ; and if he falter herein (though God will
+<pb n="39" facs="tcp:169824:24"/>never utterly caſt him off) he will be of<g ref="char:EOLhyphen"/>fended and chaſtiſe him, with corporall and ſpirituall ſcourges.</p>
+               <p n="43">43. Doubt. <hi>I have heard ſome in theſe dayes ſpeake much againſt trying a mans ſelſe by</hi> Scripture markes and ſignes, <hi>calling it a</hi> kindling of ſparkes of our owne, <hi>and I much deſire to know whether it be ſafe ſo to try my ſelfe?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Under favour, it is (to ſay no worſe) a great miſtake, to call the worke of the ſpirit within us (or any arguments drawne from thence according to the teſti<g ref="char:EOLhyphen"/>mony of the Spirit and word of Grace) <hi>ſparkes of our kindling,</hi> for they are ſparkes of Gods kindling; this ſort of teaching be<g ref="char:EOLhyphen"/>ing a Scripturall teaching<note n="c" place="margin">2 Cor. 13.5. 1 Joh. 3.14 Jam. 3.17.</note>, and (if right<g ref="char:EOLhyphen"/>ly uſed) may be of ſingular uſe and com<g ref="char:EOLhyphen"/>fort; for they are as <hi>way-markes,</hi> diſcover<g ref="char:EOLhyphen"/>ing to us, whither our courſes tend: And you know it is a great deal of ſatisfaction to a Traveller, that he is in his way, when he findeth ſuch a place of note, as his Map tels him he muſt paſſe thorow, before he arrive at his journeys end.</p>
+               <p n="44">44. Doubt. <hi>Yet I underſtand not the right uſe of theſe notes, or tryals; and therefore I be<g ref="char:EOLhyphen"/>ſeech you proceed further?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> I ſhall goe on in my laſt compa<g ref="char:EOLhyphen"/>riſon,
+<pb n="40" facs="tcp:169824:25"/>and ſhew you the rules. Suppoſe than a Chriſtian to be the Traveller, Heaven the place to which his way lyeth, &amp; theſe notes or ſignes remarkables in the way: Then,</p>
+               <p>Firſt, As the remarkables (be they Hills, Rocks, <hi>&amp;c,</hi>) muſt be ſo fully and truely deſcribed, that the Traveller may know when he comes at them, neither doubting of them, nor miſtaking other things for them. So whatſoever grace is pitcht upon, we muſt have diſtinct know<g ref="char:EOLhyphen"/>ledge of it, what it is, and how diſcerna<g ref="char:EOLhyphen"/>ble from counterfeits, before we can aſſu<g ref="char:EOLhyphen"/>redly ſay we are come to it.</p>
+               <p>Secondly, A diligent Traveller com<g ref="char:EOLhyphen"/>ming to ſuch a place as aſſures him to be in his way, ſtayes not there, but goeth on to<g ref="char:EOLhyphen"/>wards his journeys end: No more muſt Chriſtians ſtay becauſe they find they have gone aright ſo farre, but proceed from ſtrength to ſtrength, and grow in grace.</p>
+               <p>Thirdly, A Traveller ſhould not diſpaire as if he were out of his way, though he find not his way-marke (which perhaps is a good diſtance off) as ſoone as he ſets out; but hope that although it yet appeareth not, or very dimly; yet in due time, hee ſhall perfectly diſcerne and recover it: So though one that deſires to feare God, and
+<pb n="41" facs="tcp:169824:25"/>beleeve in him, doe not at firſt ſo clearely as he deſireth diſcerne ſome graces in him<g ref="char:EOLhyphen"/>ſelfe, he ſhould not diſpaire, but goe on ho<g ref="char:EOLhyphen"/>ping in the Lord till he be pleaſed to ſpeake peace<note n="d" place="margin">Pſa. 85.8 Iſa. 40.31. &amp; 50.10.</note>.</p>
+               <p>Fourthly, If a Traveller have once at<g ref="char:EOLhyphen"/>tained to a cleare ſight of ſuch a remarka<g ref="char:EOLhyphen"/>ble place as afterward he looſeth the ſight of, by going through ſome valley (a moun<g ref="char:EOLhyphen"/>taine interpoſed) he is ſtill to hope, and hold on, till he againe recover the ſight thereof: So though Chriſtians, which for<g ref="char:EOLhyphen"/>merly have found the precious fruits of the ſpirit in themſelves, fall afterwards into temptation, or mountaines of difficulty a<g ref="char:EOLhyphen"/>riſe, they are to remember how it hath been with them, hoping in God, and con<g ref="char:EOLhyphen"/>tinuing in the uſe of meanes, till they reco<g ref="char:EOLhyphen"/>ver their comfort againe.</p>
+               <p n="45">45. Doubt. <hi>If men be dead in ſinne till they be regenerate, and alive ever after, what need is there of markes or ſignes? He that is alive, knowes that he lives, and a dead man can make no uſe of them.</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> The compariſon halteth, for though the ſpirituall life and death in ma<g ref="char:EOLhyphen"/>ny things reſemble the naturall, in many things they differ; eſpecially concerning the matter in hand: It is almoſt a miracle
+<pb n="42" facs="tcp:169824:26"/>of madneſſe, for a living man to think him<g ref="char:EOLhyphen"/>ſelfe dead; and yet in ordinary experience, we find many weake Chriſtians in whom there is the life of grace, which cannot for a long time be aſſured thereof: It is im<g ref="char:EOLhyphen"/>poſſible that a dead man ſhould either know himſelfe to be dead, or thinke he is alive; but we read of diverſe ſpiritually dead that have ſo judged of themſelves, as <hi>Caine, Ju<g ref="char:EOLhyphen"/>das,</hi> and many in humane Stories<note n="*" place="margin">Read the Story of Spira.</note>, a<g ref="char:EOLhyphen"/>mongſt whom <hi>Julian</hi> the Apoſtate deſerves the firſt place, who having in a Battell re<g ref="char:EOLhyphen"/>ceived his deaths wound, belched out this deſperate blaſphemy, <hi>Viciſti Galilaee,</hi> mean<g ref="char:EOLhyphen"/>ing Chriſt as an enemy had vanquiſhed him. And too frequently to our griefe doe we meet with Hereticks, Hypocrites, Civilians, <hi>&amp;c.</hi> which have deaths brand upon them, and yet are confident their caſe is as good as any mans; inſomuch that no arguments (without the ſpeciall aſſiſtance of Gods ſpirit) are ſufficient to convince them of the contrary.</p>
+               <p n="2">2. Though life were eaſie to be perceived, yet growth is many times more difficult, and this Doctrine of tryall doth as well enquire into the growth, as truth, of gr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce.</p>
+               <p n="46">46. Doubt. <hi>How ſhould there be any cer<g ref="char:EOLhyphen"/>tainty
+<pb n="43" facs="tcp:169824:26"/>in trying a mans ſelfe by theſe notes, when an eminent Preacher of theſe dayes hath proved that neither</hi> univerſall obedience, <hi>nor</hi> love to the Brethren <hi>(which are accounted two of the plaineſt) have any certainty in them? Not the firſt, becauſe there is no ſuch thing in any meere man, as univerſall obedience: Nor the ſecond, becauſe this love hath ſuch qua<g ref="char:EOLhyphen"/>lifications as men ſhall hardly finde in them<g ref="char:EOLhyphen"/>ſelves</hi>
+                  <note n="*" place="margin">
+                     <hi>See</hi> 1 Cor 13. Ver. 4.5, &amp;c.</note> : <hi>Or if ſuch love can be found, yet we cannot know we love the Brethren, except we know that thoſe whom we love, are the Bre<g ref="char:EOLhyphen"/>thren; it is not ſufficient to love them under the notion of Brethren; for ſo Papiſts love one another — And therefore</hi> Love to the Brethren <hi>is rather a note to know others then our ſelves, for the Apoſtle doth not ſay,</hi> Hereby I know, <hi>but</hi> Hereby we know, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> By <hi>univerſall obedience</hi> we doe not meane exact obedience to the Law in every part of it, without ſwerving or interrup<g ref="char:EOLhyphen"/>tion, but unblamable walking in a Goſpel<g ref="char:EOLhyphen"/>ſenſe, which indeed is rather univerſall in will then act, for though <hi>When they would doe good, evill is preſent with them</hi>
+                  <note n="e" place="margin">Rom. 7.21.</note>, <hi>ſo that they doe not the good which they would, but the evill which they would not</hi>
+                  <note n="f" place="margin">Ver. 19.</note> ; <hi>yet they delight in the Law of the Lord after the inward man</hi>
+                  <note n="g" place="margin">Ver. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>. And this their obedience is called <hi>univerſall,</hi>
+                  <pb n="44" facs="tcp:169824:27"/>in as much, as a Chriſtian doth not pick nor chooſe among Gods Commandements, but hath reſpect to them all without exception or difference, indeavouring to walke up to them, or as neare as may be: Now ſuch <hi>u<g ref="char:EOLhyphen"/>niverſall obedience</hi> as this muſt be in a Chri<g ref="char:EOLhyphen"/>ſtian<note n="h" place="margin">Jam. 2.10</note>, and where it is, muſt needs be a good ſigne of an happy eſtate<note n="i" place="margin">Pſ. 119.6.</note>.</p>
+               <p>As for <hi>Love to the Brethren,</hi> methinke [1 <hi>John</hi> 3.14.] is ſo plaine, that he which ſaith, we cannot know our condition here<g ref="char:EOLhyphen"/>by, doth directly give <hi>John</hi> (or rather the <hi>holy Ghoſt</hi>) the Lye: And what if love have ſuch qualifications as are ſpoken of, 1 <hi>Cor.</hi> 13. Cannot the tree be knowne, un<g ref="char:EOLhyphen"/>till it beare fruit, it were abſurd arguing to ſay (in the ſeaſon when a plant is new ſet) this is no Apple-tree, becauſe we ſee no Ap<g ref="char:EOLhyphen"/>ples on it. And when it appeares that we unfeignedly love the Brethren, in whom we apprehend the Image of God, ſhining in the graces of his ſpirit (not out of any by<g ref="char:EOLhyphen"/>reſpect, but love to the God they ſerve) may we not conclude we love them, becauſe the fruits of this love doe not preſently ap<g ref="char:EOLhyphen"/>peare? Is it reaſon to ſay there is no love, becauſe it hath no fruits to our diſcerning, or rather to ſay here is love, and in Gods <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime we ſhall ſee fruits.</p>
+               <pb n="45" facs="tcp:169824:27"/>
+               <p>Nor need we to know infallibly, that they are the Brethren whom we love; if they profeſſe and practiſe the true Religion, we are bound (till the contrary appeare) to take them for Brethren; and if we love them under that notion, though they be not ſuch, our humane judgement indeed is miſtaken, but our love is nevertheleſſe true: <hi>Charity hopeth all things</hi>
+                  <note n="k" place="margin">1 Cor. 13.7.</note> : But what thinke you did the reverend Author meane, when he tels us, Papiſts love one another under the notion of Brethren? Doth he thinke it alone, to love him which (as farre as the judgement of man can reach) is a true Saint, and one which the Word of God proves to be an Idolater? Was it alone, to love <hi>Judas</hi> for his Maſters ſake, while he was undiſcovered, and to love a blaſphe<g ref="char:EOLhyphen"/>mous Scribe or Phariſee, under the notion of a Brother? The Papiſts wilfully ſhut their eyes againſt the truth, and therefore out of ſinfull ignorance, take thoſe to be the Brethren, which (for the preſent) neither ſo are, nor can be, and love them under a wilfully-miſtaken notion of Bre<g ref="char:EOLhyphen"/>thren: But we, according to the rules of love, modeſty, and prudence (neither condemning any without manifeſt cauſe, nor prying into Gods ſecrets, nor blind<g ref="char:EOLhyphen"/>folding
+<pb n="46" facs="tcp:169824:28"/>our owne knowledge) take thoſe for Brethren, which for the preſent may be (and we hope are) the Brethren; and though we be miſtaken, it is no ſin of ours, who were never made the judges of the heart, but are to reſt ſatisfied in mens out<g ref="char:EOLhyphen"/>ward profeſſion and converſation: Nor can this be a ſigne to know others, and not our ſelves; for we cannot know whether others love the Brethren except we knew their hearts. And though it be not ſayd (1 <hi>John</hi> 3.14.) <hi>I know I am, &amp;c.</hi> But <hi>We know we are, &amp;c.</hi> That makes nothing a<g ref="char:EOLhyphen"/>gainſt me, but rather for me: Had <hi>John</hi> ſpoken in the ſingular Number <hi>[I know]</hi> it might have been thought to be ſome ſpe<g ref="char:EOLhyphen"/>ciall perſons priviledge; but he ſaith <hi>[We]</hi> that is <hi>[you and I]</hi> writing to ordinary Chriſtians, as is very probable: And the ſame perſons are made the ſubjects al along; for ſaith he, <hi>We know that we are tranſlated from death to life, becauſe we love the Brethren.</hi> So that the ſame perſons that loved the Brethren, did thereby know that them<g ref="char:EOLhyphen"/>ſelves were tranſlated from death to life.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="47" facs="tcp:169824:28"/>
+               <head>
+                  <hi>CHAP. XI.</hi> Of Chriſtian Liberty, and Liberty of Conſcience: <hi>ALSO,</hi> Of the civill Magistrate, and Church<g ref="char:EOLhyphen"/>cenſures.</head>
+               <p n="47">47. Doubt. <hi>IF Chriſtians muſt not be the ſervants of men</hi>
+                  <note n="a" place="margin">1 Cor. 7.23.</note>, <hi>how come Rulers to have any power over us?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> The meaning is not, that we muſt not ſerve men at all (for that would con<g ref="char:EOLhyphen"/>tradict the Verſes immediately ſore going<note n="b" place="margin">1 Cor. 7.20, 21, 22.</note> and almoſt infinite other places) but doe not ſo ſerve men, that it hinder you in the ſervice of God.</p>
+               <p n="48">48. Doubt. <hi>If every one muſt beare his owne burden</hi>
+                  <note n="c" place="margin">Gal. 6.5.</note>, <hi>and be judged according to his workes</hi>
+                  <note n="f" place="margin">Rom. 2.6</note>, <hi>why ſhould any man (Magiſtrate, or other) trouble or interrupt him, though he be hereticall or blaſphemous, but leave him to God, and his owne conſcience?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> The vileſt ſinner on earth may
+<pb n="48" facs="tcp:169824:29"/>plead thus: But the truth is, that though the principall and ultimate judgement of every mans cauſe be left to <hi>Chriſt</hi> to be de<g ref="char:EOLhyphen"/>termined by him at the day of judgement: Yet God out of his ſingular wiſedome hath appointed, that open wickedneſſe (whe<g ref="char:EOLhyphen"/>ther it be matter of opinion or practice) be judged and puniſhed alſo by Authority Eccleſiaſticall and Civill, and if either ſort neglect their duty herein, themſelves be<g ref="char:EOLhyphen"/>come culpable<note n="g" place="margin">Neh. 13.16, 17, 18. 1 Kin. 9.22 1 Cor. 5. <hi>tot.</hi> Rev. 2.14.15, 20.</note>.</p>
+               <p n="49">49. Doubt. <hi>But what good is this reſtraint like to worke, but to make men either more vio<g ref="char:EOLhyphen"/>lent, when they ſee their Tenet oppoſed, or elſe Hypocrites (if they be reſtrained) for God onely can change the heart?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> This alſo any notorious wretch may ſay for himſelfe; but truſt repoſed in men by God muſt be diſcharged, and the iſſue left to him.</p>
+               <p n="50">50. Doubt. <hi>But if my conſcience be erro<g ref="char:EOLhyphen"/>nous, what courſe can I take? If I go againſt the truth, I ſin</hi>
+                  <note n="h" place="margin">2 Theſ. 2.10.</note>, <hi>and if I goe againſt my con<g ref="char:EOLhyphen"/>ſcience I ſin alſo</hi>
+                  <note n="i" place="margin">Rom. 14. <hi>ult.</hi> 1 Cor, 8.7. &amp;c.</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> It is true, and therefore the way is to pray and ſeeke for ſatisfaction, that your conſcience may comply and cloſe with the truth.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="49" facs="tcp:169824:29"/>
+               <head>
+                  <hi>CHAP. XII.</hi> Of Religious Worſhip, and of the sabbath-day.</head>
+               <p n="51">51. Doubt. <hi>TO what purpoſe ſhould Chriſtians pray for any thing, ſeeing God hath promiſed they ſhall want nothing? Can God forget his promiſe? Or needs he any remembrancer?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Prayer is a duty incumbent to all men, eſpecially Chriſtians, and the way wherein God is pleaſed to make out ſuch promiſes<note n="a" place="margin">Mat. 7.7.</note> ; and therefore you muſt not thinke that Gods abſolute promiſes tye him to give ſuch and ſuch things, whether they will aske or no<note n="b" place="margin">Jam. 4.2.</note>, but that he will enable his people to pray, that they may receive the promiſed mercies<note n="c" place="margin">Iſa. 51.9.</note>? He having reſolved he will be ſought unto for the accompliſh<g ref="char:EOLhyphen"/>ment of his promiſes<note n="d" place="margin">Ezek. 36.37.</note>.</p>
+               <p n="52">52. Doubt. <hi>Some ſcruple the ſinging of</hi> Davids Pſalmes, <hi>ſaying they were onely penned for the preſent occaſion, and conceive that the</hi> Pſalmes <hi>mentioned in the New Teſtament were not</hi> Davids, <hi>but ſuch as men aſſiſted by the ſpirit
+<pb n="50" facs="tcp:169824:30"/>of God, compoſed for the particular occaſion</hi>
+                  <note n="e" place="margin">1 Cor. 14.26.</note> : <hi>But what thinke you of it?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Though <hi>Davids Pſalmes</hi> were pen<g ref="char:EOLhyphen"/>ned for the particular occaſion, yet the uſe of them ſtill remained, and ſome of them were ſung many Ages after<note n="f" place="margin">2 Chron. 20.21. &amp; 29.30.</note>, nor can it be proved that they ever ceaſed to be Gods Ordinance.</p>
+               <p>As for the New Teſtament, we often read the word <hi>[Pſalmes]</hi> therein, and for the moſt part in ſuch a ſenſe, that <hi>Davids Pſalmes</hi> muſt needs be thereby meant<note n="g" place="margin">Luke 20.42. Acts 1.20. &amp; 13.33. Eph. 5.19. Col. 3.16. <hi>and elſe<g ref="char:EOLhyphen"/>where.</hi>
+                  </note>, but never (to my remembrance) in the ſenſe you ſpeake of; for ſuch occaſionall com<g ref="char:EOLhyphen"/>poſures are rather called <hi>Hymnes,</hi> or <hi>Spi<g ref="char:EOLhyphen"/>rituall ſongs,</hi> and diſtinguiſhed from <hi>Pſalms</hi>
+                  <note n="h" place="margin">Eph. 5.19. Col. 3.16.</note>. To that place you cite, <hi>Viz.</hi> 1 <hi>Cor.</hi> 14.26. I anſwer:</p>
+               <p>Firſt, The Apoſtle there ſpeakes of a<g ref="char:EOLhyphen"/>buſes and d ſorders, and therefore it is hard thence to prove a duty: It is rough Logick to ſay, the Apoſtle reproves them that they had each of them a Pſalm; therefore Chri<g ref="char:EOLhyphen"/>ſtians muſt (or may) have each of them a Pſalme.</p>
+               <p>Secondly, Admit that <hi>Paul</hi> reproves them not for any faultineſſe in the matter of their worſhip, but the manner of per<g ref="char:EOLhyphen"/>formance (which I confeſſe is likely to be
+<pb n="51" facs="tcp:169824:30"/>his meaning) our opinion may well ſtand with it; for he might well meane <hi>Davids Pſalmes,</hi> and ſo the ſenſe will be this, Every one chooſeth what Pſalme himſelfe plea<g ref="char:EOLhyphen"/>ſeth, <hi>&amp;c.</hi>
+               </p>
+               <p>Thirdly, Suppoſe he meant any other kind of <hi>Pſalmes</hi> then <hi>Davids,</hi> yet he excludes not them, neither in this place, nor elſe<g ref="char:EOLhyphen"/>where.</p>
+               <p>Fourthly, If thoſe which had the ex<g ref="char:EOLhyphen"/>traordinary gifts of the ſpirit, to compoſe ſuch ſpirituall Songs, as aboveſayd, made leſſe uſe of <hi>Davids Pſalmes,</hi> by reaſon of their owne extraordinary abilities, it were no warrant to us, which pretend to no ſuch gifts, to neglect, ſuch excellent helpes as <hi>Davids Pſalmes</hi> are.</p>
+               <p n="53">53. Doubt. <hi>How doe you know that this day which we celebrate, is the firſt day of the weeke which the Apoſtles kept, and is called the</hi> Lords day?</p>
+               <p>
+                  <hi>Reſol.</hi> As well as the Jewes in <hi>Chriſts</hi> time, that they kept the <hi>ſeventh,</hi> or you that you are baptized: We muſt not think our Anceſtors were ſo ſilly, that they could not count ſeven.</p>
+               <p n="54">54. Doubt. <hi>I, but that is not all, let them account as well as they can, the time will vary much in the revolution of one thouſand,
+<pb n="52" facs="tcp:169824:31"/>ſix hundred, forty eight yeares; and therefore how can this be ſayd to be the ſame, conſidering with all, that in Countreys farre diſtant it may he night in one, when it is day in another?</hi>
+               </p>
+               <p>
+                  <hi>Reſol,</hi> I confeſſe, I am neither Aſtrono<g ref="char:EOLhyphen"/>mer, nor Geographer, nor doe I thinke we ſtand in need of ſuch Calculations: Let yeares revolve whither they can, the dayes of the week will ſtill follow one another in the ſame order they doe. The Jewes Sab<g ref="char:EOLhyphen"/>bath was above twice as old as ours is, when <hi>Chriſt</hi> was on the Earth, and the courſe of the Sunne twice interrupted in the meane time<note n="i" place="margin">Joſ. 10.13 2 King. 20.11.</note> : Yet <hi>Chriſt</hi> never reproved them for obſerving a wrong day, but he, and his, obſerved it, till it was changed<note n="k" place="margin">Luke 23.56.</note>, which they would not have done, had there been any errour in the Jewes account. The di<g ref="char:EOLhyphen"/>ſtance of place (I confeſſe) may alter the time much, yet I verily beleeve that hee, which in all his travells (or whereſoever GOD placeth him) ſhall obſerve a day weekly, beginning with the firſt, and ſo holding on, keepes it ſeaſonably: And if this be not allowed, I ſee not how the Pa<g ref="char:EOLhyphen"/>triarcks in their Pilgrimages, or Proſelytes, which dwelt in all parts of the World<note n="l" place="margin">Acts 2.9. &amp; 8.27.</note> ; (to ſay nothing of the diſtance which ſome conceive, was between <hi>Canaan</hi> it ſelfe, and
+<pb n="53" facs="tcp:169824:31"/>Paradiſe, where the Sabbath was inſtitu<g ref="char:EOLhyphen"/>ted) could obſerve the ſeventh day Sab<g ref="char:EOLhyphen"/>bath in its ſeaſon.</p>
+               <p n="55">55. Doubt. <hi>Might we not, as Maſter</hi> Cal<g ref="char:EOLhyphen"/>vin <hi>wiſhed, appoint a part of each day, or as o<g ref="char:EOLhyphen"/>thers think, any other day (ſo it be one in ſe<g ref="char:EOLhyphen"/>ven) in ſtead of the firſt day of the weeke, ſeeing that day is not poſitively ſet downe to be kept?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Though I reverence Maſter <hi>Calvin</hi> as highly as any man that was alive this hundred yeares; yet I cannot comply with him nor any men elſe, in judging another time ſo fit for Gods ſervice, as that which by the Apoſtles themſelves was ſet apart<note n="m" place="margin">Act. 20.7 1 Cor. 16.2</note>, whoſe example (they being inſpired by the holy Ghoſt) may as well in this, as many other things ſupply the want of a precept<note n="n" place="margin">Phil. 3.17</note>.</p>
+               <p n="56">56. Doubt. <hi>How ſhould I know when to begin and conclude the</hi> Lords day?</p>
+               <p>
+                  <hi>Reſol.</hi> It it a great queſtion among Di<g ref="char:EOLhyphen"/>vines: For mine owne part (with ſub<g ref="char:EOLhyphen"/>miſſion) I thinke it begins at the dawning of the day, when Chriſt aroſe<note n="o" place="margin">Mat. 28.1</note> : I know it is ſayd (<hi>Gen.</hi> 1.) <hi>The evening and the morn<g ref="char:EOLhyphen"/>ing;</hi> and not <hi>The morning and the evening;</hi> nor dare I ſay it is an <hi>Hiſtero proteron,</hi> for the often inculcating of it ſeemes to point
+<pb n="54" facs="tcp:169824:32"/>at ſome Myſtery: But this I ſay, that though it be granted that the naturall day and particularly the Sabbath, containing foure and twenty houres, had its revolution from evening to evening; yet nothing hin<g ref="char:EOLhyphen"/>ders why the <hi>Chriſtian Sabbath</hi> may not be from morning to morning; for ſeeing the Lords day is kept in memory of <hi>Chriſts</hi> re<g ref="char:EOLhyphen"/>ſurrection, why ſhould it not as well be<g ref="char:EOLhyphen"/>gin at the houre and minuite, as be cele<g ref="char:EOLhyphen"/>brated on the day that he roſe from the dead?</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>
+                  <hi>CHAP. XIII.</hi> Of Oathes.</head>
+               <p n="57">57. Doubt. <hi>HOw can ſwearing by the Name of GOD be a ſinne, ſeeing it is not onely allowed, but com<g ref="char:EOLhyphen"/>manded</hi>
+                  <note n="a" place="margin">Deu. 6.13 &amp; 10.20.</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> Swearing by the Name of GOD, ſo it be with reverence, and upon juſt ground, is not a ſin but a worſhip of God, tending to his honour, by making him the Judge of ſecrets, but ſwearing <hi>cuſtomarily, raſhly,</hi> and <hi>vainely,</hi> is a breach of the third
+<pb n="55" facs="tcp:169824:32"/>Commandement; and the like may be ſayd of other worſhips: But the meaning of the places you cite, is this, When thou ſhalt be lawfully called to ſweare, thou ſhalt ſweare by none other but God alone; for to him that worſhip appertaineth.</p>
+               <p n="58">58. Doubt. <hi>But how can theſe paſſages ſtand with flat prohibitions on the other ſide, SWEARE NOT AT ALL</hi>
+                  <note n="b" place="margin">Mat. 5.34</note>, and <hi>ABOVE ALL THINGS MY BRETHREN SWEARE NOT</hi>
+                  <note n="c" place="margin">Jam. 5.12</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> Very well, for the ſenſe is, <hi>Sweare not at all by the Creature;</hi> Not by Heaven, Earth, Jeruſalem, or thine head, ſaith Chriſt<note n="d" place="margin">Mat. 9.34 &amp;c.</note>. Not by Heaven, Earth, or any other Oath, ſaith the Apoſtle <hi>James</hi>
+                  <note n="c" place="margin">Jam. 5.12</note> : The generall expreſſion, Sweare not at all, muſt be expounded by the particulars enu<g ref="char:EOLhyphen"/>merated: Others ſay, the <hi>Scribes</hi> and <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi> taught, It was lawfull to ſweare in their ordinary Communication, ſo they were not perjured, and <hi>Chriſt</hi> heads him<g ref="char:EOLhyphen"/>ſelfe againſt their Doctrine, forbidding ſwearing in ordinary courſe, to which <hi>James</hi> ſubſcribeth in the place quoted. Both expoſitions are agreeable to ſound doctrine though they cannot both be ſenſe of the places. But that Chriſt ſhould forbid all ſwearing, cannot be the ſenſe of it, for God
+<pb n="56" facs="tcp:169824:33"/>himſelfe appointed an Oath to decide con<g ref="char:EOLhyphen"/>troverſies,<note place="margin">Exod. 22.7 &amp;c. 1 Kin. 8.31 Ezra 10.5. Nehe. 5.12 &amp; 13.25. Iſa. 65.16. 2 Cor. 1.23 Heb. 6.16. 2 Cor. 11.31.</note> which being neither typicall nor grounded on ſpeciall reaſon, peculiar to thoſe times, but of common equity, con<g ref="char:EOLhyphen"/>cerning us as well in the dayes of the <hi>Goſpell</hi> cannot be abrogated. Compare the Scrip<g ref="char:EOLhyphen"/>tures in the Margent.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>
+                  <hi>CHAP. XIV.</hi> Of the Church, and Communion of Saints.</head>
+               <p n="59">59. Doubt. <hi>WHethr is there ſuch a thing as an uni<g ref="char:EOLhyphen"/>verſall viſible Church?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> The Church wherein God hath ſet Apoſtles (1 <hi>Cor.</hi> 12.28.) can be no other. <hi>
+                     <g ref="char:V">Ʋ</g>niverſall</hi> it muſt needs be, becauſe comprehending univerſall Officers; and it can neither be the inviſible on Earth, nor the tryumphant; for Apoſtles (as ſuch) belong to neither of them (though as Saints they doe) for <hi>Judas</hi> was an Apoſtle<note n="a" place="margin">Mat. 10.2, 3, 4.</note>, but appertained neither to the inviſible Church on Earth, nor the tryumphant in Hea<g ref="char:EOLhyphen"/>ven<note n="b" place="margin">Joh. 17.12. Acts 1.16.</note>.</p>
+               <pb n="57" facs="tcp:169824:33"/>
+               <p n="60">60 Doubt. <hi>How is it poſſible that Belee<g ref="char:EOLhyphen"/>vers through the World ſhould hold Commu<g ref="char:EOLhyphen"/>nion, when they are of ſo many different o<g ref="char:EOLhyphen"/>pinions?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Diverſity of opinion is a great e<g ref="char:EOLhyphen"/>nemy to Communion, and therefore it ſhould be our deſire and endeavour to be all of one heart and judgement<note n="c" place="margin">1 Cor. 1.10.</note> : Yet it is poſſible, Communion may be held in the maine, amongſt thoſe which are not of one mind in all things<note n="d" place="margin">Phil. 3.15, 16.</note>.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>
+                  <hi>CHAP. XV.</hi> Of the Sacraments.</head>
+               <p n="61">61. Doubt. <hi>HOw can Infants be ca<g ref="char:EOLhyphen"/>pable of</hi> Baptiſm, <hi>when the Scripture no where commands it, nor tels of any that were Baptized?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Though the Scripture lay downe neither Precept nor Preſident in expreſſe tearmes; a Doctrine that may be proved by undenyable Scripture-conſequence may not be rejected. <hi>Chriſt</hi> overthrew the opi<g ref="char:EOLhyphen"/>nion of the Sadduces by Scripture<note n="a" place="margin">Mat. 22.29, to 34.</note>, al<g ref="char:EOLhyphen"/>though he alleadged nothing expreſly a<g ref="char:EOLhyphen"/>gainſt
+<pb n="58" facs="tcp:169824:34"/>their errour, but onely by way of conſequence: Howbeit the confutation was ſo cleare, that the multitude underſtood, and admired it, his enemies were put to ſi<g ref="char:EOLhyphen"/>lence, and a freſh party prepared themſelves to give an onſet.</p>
+               <p n="62">62. Doubt. <hi>Yet methinkes a matter of ſo great importance, and ſo much contended for, ſhould be proved by one place at leaſt of expreſſe Scripture?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Though the leaſt part of Goſpell-truth is worthy to be contended for, ſo it be in love and modeſty; and the delay of Baptiſme without juſt cauſe, is a ſleighting of Gods gracious tender, yet the diſpute being onely concerning a circumſtance of time, we account it nothing ſo weighty as if it concerned the ſubſtance and eſſence of Baptiſme. Nevertheleſſe it cannot be deny<g ref="char:EOLhyphen"/>ed, but even weightier matter then Bap<g ref="char:EOLhyphen"/>tiſme it ſelfe are not to be found in expreſſe tearmes in the Scripture: The Myſtery concerning Trinity of Perſons, in Unity of Eſſence is no where read, <hi>Totidem verbis</hi> (as we ſay) in the Word of God, howbeit it is ſufficiently proved, 1 <hi>John</hi> 5.7. and no leſſe then blaſphemy to deny it: Neither is it ſaid in any place expreſly, that the holy Ghoſt is God, though undenyably proved,
+<pb n="59" facs="tcp:169824:34"/>1 <hi>Cor.</hi> 3.16. <hi>Acts</hi> 5.3, 4. Or how doth it appeare that Women did, or ought to re<g ref="char:EOLhyphen"/>ceive the Lords Supper? Or that the Son of a Beleever, being a growne perſon, was (or ought to be) Baptized, which notwith<g ref="char:EOLhyphen"/>ſtanding our oppoſers hold and practice: They muſt not anſwer me, that whole Fa<g ref="char:EOLhyphen"/>milies were baptized, among whom it is probable there were ſome ſuch; for it may be eaſily replyed, It is as probable, that in ſome of the Families mentioned, there was at leaſt one Infant, or perſon in minority, which if we ſhall ſuppoſe, ſeeing the whole Family was baptized, it muſt needs be bap<g ref="char:EOLhyphen"/>tized alſo, which they will in no wiſe grant, though it be the more probable of the two.</p>
+               <p n="63">63. Doubt. <hi>I ſhall ſay nothing concerning the</hi> Trinity, <hi>or of the Deity of the</hi> holy Ghoſt <hi>(your ſelfe having proved them both ſufficient<g ref="char:EOLhyphen"/>ly, though (I confeſſe) onely by ſtrong con<g ref="char:EOLhyphen"/>ſequence, not in expreſſe tearmes, which I ne<g ref="char:EOLhyphen"/>ver before obſerved) but to me the Scripture is plaine enough, that Women may receive the Lords Supper, becauſe they may examine them<g ref="char:EOLhyphen"/>ſelves</hi>
+                  <note n="b" place="margin">1 Cor. 11 28.</note>, <hi>and we read of Women that have had Faith, Repentance, Knowledge, and Charity, as well as men: And as eaſie is it to prove, that a Beleevers Son</hi> (when himſelfe is a Belee<g ref="char:EOLhyphen"/>ver)
+<pb n="60" facs="tcp:169824:35"/>
+                  <hi>muſt be baptized, ſeeing Faith makes capable</hi>
+                  <note n="c" place="margin">Mark 16.16.</note> ; <hi>but I finde not the like proofe for Pe<g ref="char:EOLhyphen"/>dobaptiſme?</hi>
+               </p>
+               <p>
+                  <hi>Reſol,</hi> Miſtake me not, I did not deny the things you plead for; onely I ſay they cannot be found in expreſſe tearmes, but muſt be made out by conſequence, and this you ſhall finde is equally ſtrong for Pedo<g ref="char:EOLhyphen"/>baptiſme as for them, which (to ſatisfie your doubt) I ſhall briefly ſhew you in theſe few Arguments.</p>
+               <div n="1" type="argument">
+                  <head>
+                     <hi>1.</hi> Argument.</head>
+                  <p>
+                     <hi>Diſciples are to be Baptized, Beleevers Children are Diſciples:</hi> Ergo, <hi>They are to be Baptized.</hi>
+                  </p>
+                  <p>That Diſciples are to be Baptized, no man can doubt, that underſtands, <hi>Matth.</hi> 28.19. which Scripture is moſt naturally ren<g ref="char:EOLhyphen"/>dred<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> : <hi>Go, diſciple all Natinos, baptizing them, &amp;c.</hi> And thoſe which deny the law<g ref="char:EOLhyphen"/>fulneſſe of Childrens baptiſme, doe not onely acknowledge this, but urge it much againſt us, as ſuppoſing that Infants can<g ref="char:EOLhyphen"/>not be Diſciples; And therefore all the ſtreſſe of the argument lyeth in the proofe
+<pb n="61" facs="tcp:169824:35"/>of the Minor, which may be done thus. <hi>Peter</hi> blaming ſuch as urged Circumciſion, and obſervance of <hi>Moſes</hi> Law, hath this paſſage<note n="d" place="margin">Acts 15.10.</note>, <hi>Why tempt yee God, to put a yoake on the neck of the Diſciples, &amp;c.</hi> To the un<g ref="char:EOLhyphen"/>derſtanding whereof you muſt note, that the falſe Teachers taught the Brethren that they muſt be Circumciſed, becauſe of the Law of <hi>Moſes</hi> commanding it<note n="e" place="margin">Acts 15.1</note> (for no other Law could bind them to it) and this Law did not onely require that adult perſons, but that all their Males eight days old ſhould be circumciſed<note n="f" place="margin">Gen. 17.12.</note>. So that theſe Patrons of Circumciſion muſt needs lay this unſupportable yoak, as well on Beleevers Children, as Beleevers themſelves, and yet they are all called Diſciples; I conclude ther<g ref="char:EOLhyphen"/>fore, ſeeing Chriſt commands that Diſci<g ref="char:EOLhyphen"/>ples muſt be baptized, and <hi>Peter</hi> includeth Beleevers Children in the number of Diſci<g ref="char:EOLhyphen"/>plet, <hi>Such Children are to be baptized.</hi>
+                  </p>
+               </div>
+               <div n="2" type="argument">
+                  <head>
+                     <hi>2.</hi> Argument.</head>
+                  <p>If Baptiſme be come into the roome of Circumciſion, Infants may be as capable of it, as they were of Circumciſion:</p>
+                  <pb n="62" facs="tcp:169824:36"/>
+                  <p>
+                     <hi>But,</hi> Baptiſme is come in the room of Cir<g ref="char:EOLhyphen"/>cumciſion:<note n="g" place="margin">Col. 2.12</note> Therefore, &amp;c.</p>
+               </div>
+               <div n="3" type="argument">
+                  <head>
+                     <hi>3.</hi> Argument. —</head>
+                  <p n="64">64. Doubt. <hi>Stay a little, before you pro<g ref="char:EOLhyphen"/>ceed to any other Argument, I deſire you would vindicate the aſſumption of the laſt, from juſt exceptions: How can Baptiſme be come in the place of Circumciſion? When firſt, they were both on foot together a long ſeaſon: Secondly, Males onely were Circumciſed, but Females are alſo baptized: Thirdly, Circumciſion muſt be adminiſtred ſtrictly on the eight day; but no ſuch rule is obſerved in baptizing Children: Fourthly, Circumciſion was to confirme</hi> Ca<g ref="char:EOLhyphen"/>naan, <hi>and certaine temporall bleſſings to</hi> A<g ref="char:EOLhyphen"/>braham, <hi>and his ſeed</hi>
+                     <note n="h" place="margin">Gen. 17.8, 9, 10.</note>, <hi>for ſuch was the Co<g ref="char:EOLhyphen"/>venant of God with him</hi>
+                     <note n="i" place="margin">Gen. 17.4, &amp;c. &amp; 15 18, &amp;c.</note>.</p>
+                  <p>
+                     <hi>Reſol.</hi> To theſe your foure allegations I ſhall ſhape you out as many particular an<g ref="char:EOLhyphen"/>ſwers.</p>
+                  <p n="1">1.<note place="margin">
+                        <hi>1</hi> Exception removed.</note> They might be both on foot at once, and yet one ſucceed in the place of another. <hi>Solomon</hi> was anoynted King, his Father be<g ref="char:EOLhyphen"/>ing yet alive<note n="k" place="margin">1 King. 1 39, 43, 44, &amp;c.</note> ; in like manner was <hi>Eleazar</hi> made Prieſt, before his Fathers death<note n="l" place="margin">Num. 20.26.</note> ;
+<pb n="63" facs="tcp:169824:36"/>yet who doubts but they were their Fathers ſucceſſours? Goſpell-Ordinances came in the roome of typicall Ceremonies<note n="m" place="margin">Joh. 4.22 23, 24. Heb. 10.1.</note>, though they were in being at one time<note n="n" place="margin">Act 16.2</note>. So Cir<g ref="char:EOLhyphen"/>cumciſion was in being, but even expiring, when baptiſme was inſtituted.</p>
+                  <p n="2">2.<note place="margin">
+                        <hi>2</hi> Exception taken away.</note> Males onely were circumciſed becauſe they onely were capable, but Women were alſo included in the Covenant, for it was made to <hi>Abraham</hi> and his ſeed, whereof the Females were a very conſiderable part, and though they were not perſonally cir<g ref="char:EOLhyphen"/>cumciſed (becauſe uncapable) they were not excluded from Circumciſion, but in<g ref="char:EOLhyphen"/>cluded in the Circumciſion of the Males. A Church or Family was accounted cir<g ref="char:EOLhyphen"/>cumciſed, when the Males were circumci<g ref="char:EOLhyphen"/>ſed. The whole houſhold muſt eate the Paſchall Lambe<note n="o" place="margin">Exod. 12.3, 4.</note>, and yet no uncircum<g ref="char:EOLhyphen"/>ciſed perſon muſt eate thereof<note n="p" place="margin">Ver. 48.</note>, ſurely then Women in <hi>Iſrael</hi> were not reputed uncir<g ref="char:EOLhyphen"/>cumciſed: But now for Baptiſme, Women are not onely virtually, and conſtructively, but actually, properly, perſonally, and for<g ref="char:EOLhyphen"/>mally capable thereof, as well as men: In a word, we read that <hi>Lydia</hi> (a Female) was baptized<note n="q" place="margin">Acts 16.15.</note> ; and that an Infant may be, it hath been (and by Gods help ſhall be ſur<g ref="char:EOLhyphen"/>ther) proved: and then why not a Female Infant?</p>
+                  <pb n="64" facs="tcp:169824:37"/>
+                  <p n="3">3.<note place="margin">
+                        <hi>3</hi> Exception taken of.</note> Whatſoever in the time of the Law was not eſtabliſhed on ſuch grounds as con<g ref="char:EOLhyphen"/>cerne our times alſo, but was either typi<g ref="char:EOLhyphen"/>call, or grounded on ſpeciall reaſon, pecu<g ref="char:EOLhyphen"/>liar to thoſe times, we never judged our ſelves obliged thereby: Of which fort of precepts, that concerning the preciſe obſer<g ref="char:EOLhyphen"/>vation of the eight day is one.</p>
+                  <p>Maſter <hi>Tombes</hi> himſelfe (if my memo<g ref="char:EOLhyphen"/>ry faile not, for I have not his Book now at hand) doth acknowledge that the eight day typ fied the reſurrection, which con<g ref="char:EOLhyphen"/>feſſion is indeed ingenious, but not all the proofe we have; for the Scriptures ſhew that the eight day was exactly limited, be<g ref="char:EOLhyphen"/>cauſe of the Mothers Ceremonially un<g ref="char:EOLhyphen"/>cleaneneſſe the firſt ſeven dayes, which muſt be paſt ere the Child could enjoy this Or<g ref="char:EOLhyphen"/>dinance whereof we ſpeake<note n="r" place="margin">Lev. 12. Verſ. 2. compared with ver. 3.</note>. If any man ſhall here reply, this can be no reaſon, be<g ref="char:EOLhyphen"/>cauſe ſhee was uncleane three and thirty dayes<note n="ſ" place="margin">Ver. 4.</note> : I anſwer, firſt, that though ſhee was uncleane ſoking, yet not with the ſame kind of uncleaneſſe, for elſe the ſpirit of God would not have divided them, but have ſayd, ſhe ſhall be uncleane forty days, nor have called them by diſtinct names, the one, ſeparation of infirmity<note n="t" place="margin">Lev. 12.2.</note> ; the other, blood of purifying<note n="u" place="margin">
+                        <hi>Ibid.</hi> v. 4.</note>. Secondly, though it
+<pb n="65" facs="tcp:169824:37"/>were the ſame uncleaneſſe, it did not pre<g ref="char:EOLhyphen"/>judice the reaſon, becauſe the eight day was an intermiſſion betwixt the ſeven, and three and thirty dayes, as the word <hi>[then]</hi> ſhewes, <hi>And ſhee ſhall then</hi> (that is, after the eight day is over, and the Child Circumci<g ref="char:EOLhyphen"/>ſed) <hi>continue in the blood of her purifying, three and thirty dayes, &amp;c</hi>
+                     <note n="w" place="margin">Ver. 4.</note>. To conclude, there is good reaſon that as they were to take the firſt opporrunity, wherein the Or<g ref="char:EOLhyphen"/>dinance of Circumciſion could be orderly adminiſtred (which in ordinary caſes was the eight day) ſo ſhould we take the firſt fit opportunity for the Baptiſme of our In<g ref="char:EOLhyphen"/>fants, and not defer it when it may be or<g ref="char:EOLhyphen"/>derly adminiſtred, but the ſtrict obſervance of the eight day by ſpeciall reaſon concern<g ref="char:EOLhyphen"/>ed the Jews, but not us.</p>
+                  <p n="4">4.<note place="margin">
+                        <hi>4</hi> Exception anſwered.</note> In the Covenant made with <hi>Abraham</hi> ſome things be peculiarly promiſed to him, and his Seed, as thoſe you recited; but ſome things common to all the faithfull with him, as that paſſage [<hi>To be a God to thee, and thy Seed after thee</hi>
+                     <note n="x" place="margin">Gen. 17.7</note>.] Now Cir<g ref="char:EOLhyphen"/>cumciſion confirmed both ſorts of promi<g ref="char:EOLhyphen"/>ſes to his Seed after the fleſh, but onely the ſpirituall mercies to Proſelytes, which were his Children onely by Faith and profeſſion, not by generation: It is not to be imagined,
+<pb n="66" facs="tcp:169824:38"/>that every Circumciſed bond-ſervant had an inheritance in <hi>Canaan</hi> beſtowed on him: Neither reaſon nor Hiſtory make for ſuch an aſſertion (much leſſe that <hi>Proſelytes,</hi> dwelling in farre Countreys, muſt have poſſeſſions in the Land which God gave onely to the Sons of <hi>Jacob</hi>
+                     <note n="y" place="margin">Gen. 28.3.</note>) though they had right to their holy things<note n="z" place="margin">Exod. 12 48.</note>. Under<g ref="char:EOLhyphen"/>ſtand therefore, that when we ſay <hi>Baptiſme ſucceedeth Circumciſion,</hi> we meane onely ſo far as Circumciſion was a ſeale and argu<g ref="char:EOLhyphen"/>ment of a mans being in the ſpirituall (though externall) Covenant of God, and not as it confirmed temporall rights and priviledges. Having thus vindicated the aſſumption according to your deſire, I ſhall proceed, and lay you downe more Arguments.</p>
+               </div>
+               <div n="3" type="argument">
+                  <head>
+                     <hi>3.</hi> Argument.</head>
+                  <p>
+                     <hi>All that belong to the externall Co<g ref="char:EOLhyphen"/>venant of God ought to be Bapti<g ref="char:EOLhyphen"/>zed:</hi>
+                  </p>
+                  <p>But, <hi>The Infant-ſeed of beleeving and repenting Parents belong to the ex<g ref="char:EOLhyphen"/>ternall Covenant of God:</hi>
+                  </p>
+                  <p>Therefore, <hi>They ought to be baptized.</hi>
+                  </p>
+                  <pb n="67" facs="tcp:169824:38"/>
+                  <p>The Propoſition is proved, <hi>Acts</hi> 2.39. where <hi>Peter</hi> urgeth the repenting Jewes to be baptized on this ground, becauſe <hi>the pro<g ref="char:EOLhyphen"/>miſe</hi> (that is, the externall Covenant of grace, or rather the externall part of the Covenant of grace) <hi>was to them and their Children:</hi> If this was a good reaſon then, it is ſo ſtill. And that <hi>the Infant-ſeed of be<g ref="char:EOLhyphen"/>leeving and repenting Parents, belongeth to the externall Covenant of God,</hi> is as plain, 1 <hi>Cor.</hi> 7.14. To underſtand which place, conſi<g ref="char:EOLhyphen"/>der that there be onely three ſorts or kinds of holineſſe, of which Children can be ca<g ref="char:EOLhyphen"/>pable, which we may call (till better names be found out for them) <hi>perſonall, conjugall,</hi> and <hi>federall:</hi> The firſt cannot be here in<g ref="char:EOLhyphen"/>tended, for many a Beleever hath unſancti<g ref="char:EOLhyphen"/>fied and graceleſſe Children, which could not be, if one beleeving Parent ſhould ſo ſanctifie the other, that the Seed ſhould be internally holy. Not the ſecond, <hi>Viz.</hi> Con<g ref="char:EOLhyphen"/>jugall, or Marriage holineſſe, and if the Apoſtle had onely meant ſuch Children were lawfully begot in Wedlock, not adul<g ref="char:EOLhyphen"/>terouſly, or in Fornication; for he makes ſuch an oppoſition between uncleaneſſe and this holineſſe as will not admit this inter<g ref="char:EOLhyphen"/>pretation: <hi>Elſe</hi> (ſaith he) <hi>were your Chil<g ref="char:EOLhyphen"/>dren uncleane, but now they are holy:</hi> Unclean<g ref="char:EOLhyphen"/>neſſe
+<pb n="68" facs="tcp:169824:39"/>and holineſſe are here oppoſed; ſo that if by <hi>[holy]</hi> he meane onely lawful<g ref="char:EOLhyphen"/>ly begotten <hi>[uncleane]</hi> muſt needs ſignifie unlawfully begotten: And then the Apo<g ref="char:EOLhyphen"/>ſtle ſaith thus much in effect, that when neither party beleeveth, they live and beget Children in adultery, or fornication; but this cannot be his meaning, for it is not true, Marriage being honourable, and a bed undefiled, not to Belevers onely, but to all men<note n="a" place="margin">Heb. 13.4</note>. It remaineth then, that they be Covenant-wiſe, or federally holy, or ſet apart to God. For the Lord having taken a beleever and his ſeed, into Covenant with himſelfe<note n="b" place="margin">Gen. 17.7 as before.</note>, though his Wife be an unbe<g ref="char:EOLhyphen"/>leever, her infidelity cannot make Gods Covenant ineffectuall.</p>
+                  <p>For further proofe, let us view againe that Scripture in the ſecond of <hi>Acts, Verſ.</hi> 39. <hi>The promiſe is to you, and TO YO<g ref="char:V">Ʋ</g>R CHILDREN:</hi> This is ſpoken to Evangelicall repenting Parents, and agrees to all ſuch.</p>
+                  <p>Add hereunto, that many abſurdities (and thoſe no ſmall ones) will follow, if we deny Children (becauſe ſuch) to be un<g ref="char:EOLhyphen"/>capable of the externall Covenant; as,</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Abſurdity </seg>1</label> Firſt, That we have loſt by the com<g ref="char:EOLhyphen"/>ming of <hi>Chriſt:</hi> for before he came in the fleſh, if a Gentile had joyned himſelfe to
+<pb n="69" facs="tcp:169824:39"/>the Jewiſh Church, he had taken hold of the Covenant for himſelfe and his Seed, but now onely for himſelfe; and is not a mans tenure much worſned, if he formerly held to him and his heyres for ever, and now onely for terme of life: Surely the cleareneſſe of diſpenſation, and freedome from burdenſome Ceremonies appertaining to the Covenant of grace cannot make n<g ref="char:EOLhyphen"/>mends for this loſſe: A man had better undergoe many inconveniences with his owne Land, then to have a morec ommo<g ref="char:EOLhyphen"/>dious piece for terme of life only.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Abſurdity </seg>2</label> Secondly, The whole bleſſing of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> ſhould not then come on the Gentiles, according to <hi>Gal.</hi> 3.14. but onely part of it, for his priviledges were not perſonall on<g ref="char:EOLhyphen"/>ly, but hereditary, <hi>i.e.</hi> belonging to his Seed.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Abſurdity </seg>3</label> Thirdly, <hi>Chriſt</hi> ſhould be leſſe kind to his Church now then when he was on the Earth, for then he acknowledged, that In<g ref="char:EOLhyphen"/>fants were not debarred, for their infancy, from the Covenant; but ſaith, <hi>Of ſuch is the Kingdome of Heaven</hi>
+                     <note n="c" place="margin">Mat. 19.13. Mark 10.14. Luk. 18.15</note> : I know ſome may anſwer when <hi>Chriſt</hi> ſaith <hi>[of ſuch]</hi> he meaneth not Children, but ſuch as they are: <hi>Viz.</hi> ſuch as are harmeleſſe, humble, and meek, like them: But the reply is eaſie, that he intended to take in both; for the
+<pb n="70" facs="tcp:169824:40"/>Originall word<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>, which is here tranſlated <hi>[ſuch]</hi> when it is referred to a patterne, doth not exclude, but include it.</p>
+                  <p>I can give you many inſtances where the word muſt needs be ſo taken: where <hi>Chriſt</hi> ſayth, Who ſo ſhall receive one <hi>S<g ref="char:V">Ʋ</g>CH</hi> Child in my Name, receiveth me<note n="d" place="margin">Mat. 18.5</note> ; were it not ridiculous to ſay, <hi>Chriſts</hi> intent was to tell them, that if they received any o<g ref="char:EOLhyphen"/>ther Child like that, in his Name, they re<g ref="char:EOLhyphen"/>ceived him; but if they received that very Child which he ſhewed them, they received him not: It is ſayd, <hi>John</hi> 4.23. <hi>That the true worſhippers ſhall worſhip the Father, in ſpirit and in truth; for the Father ſeeketh S<g ref="char:V">Ʋ</g>CH to worſhip him.</hi> Here the word <hi>(ſuch)</hi> cannot ſignifie ſuch as are onely like to them that worſhip in ſpirit and truth (for ſuch counterfeits are hypocrites, whoſe ſervice God abhors) but they that doe ſo worſhip. Compare alſo the firſt Verſe of the ſecond Chapter to the <hi>Romans</hi> with the ſecond Verſe of the ſame, and you ſhall ſee that ſuch things are the ſame things. In the ſame ſenſe this word is taken in ſundry other places<note n="e" place="margin">Mat 9.8 Act. 16.24 Gal. 5.23.</note>.</p>
+                  <p>Thinke withall what reaſon you can give, why <hi>Chriſt</hi> ſhould be ſo angry as <hi>Mark</hi> telleth us he was<note n="f" place="margin">
+                        <hi>Mark 10.14.</hi> The Greek word <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, importeth indignation, or grievous vexation of ſpirit, and ſo is uſed, <hi>Mat. 20.24 &amp; 26.8. Mark 10.41 &amp; 14.4 Luk. 13.14</hi>
+                     </note>, when his Diſciples re<g ref="char:EOLhyphen"/>buked
+<pb n="71" facs="tcp:169824:40"/>them that brought Children to him, that he ſhould pray over them<note n="g" place="margin">Mat. 19.13.</note> : Was this the ſole cauſe, <hi>Viz.</hi> that they were like thoſe that belong to him in conditions? Then whereſoever the like vertues are found, they that hold them forth muſt al<g ref="char:EOLhyphen"/>ſo be admitted, and <hi>Chriſt</hi> would have been diſpleaſed, had they been rebuked: And upon this ground (as <hi>Maſter Cotten</hi> rightly affirmeth) <hi>Chriſt</hi> might as well have ſayd, Suffer Doves and Lambs to come to me, for of ſuch (that is, ſuch meek and harmeleſſe ones as they are) is the King<g ref="char:EOLhyphen"/>dome of Heaven. But ſurely that opinion would ſavour ſtrongly of the idle, that ſhould ſet Chriſt in a poſture of readineſſe to receive Doves or Lambs, to pray over them, and to be diſpleaſed with his Diſci<g ref="char:EOLhyphen"/>ples, had they rebuked ſuch as brought them, which yet he muſt have done had he been uniforme in his working according to reaſon<note n="*" place="margin">This is cleare to him that underſtands the axiome. A quateus ad omne va<g ref="char:EOLunhyphen"/>let conſe<g ref="char:EOLhyphen"/>quentia.</note>, and thoſe imitable vertues the ſole cauſe why he received them.</p>
+                  <p n="65">65. Doubt. <hi>There is a great deale of rea<g ref="char:EOLhyphen"/>ſon in that which you ſay, and I acknowledge my ſelfe much engaged to you for condiſcending to my capacity, in avoyding tearmes of Art as much as may be: But I obſerve, you made much uſe of</hi> Acts 2.39. <hi>and I doubt whether it can
+<pb n="72" facs="tcp:169824:41"/>carry all the weight you lay on it, for there be no leſſe then three ſtrong exceptions againſt it.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Exception </seg>1</label> Firſt, <hi>All to whom</hi> Peter <hi>ſpake were Jewes by Nation, to whom indeed this promiſe be<g ref="char:EOLhyphen"/>longed: Keepe you to Beleevers in</hi> Abrahams <hi>line, and you may ſay to them,</hi> The promiſe is to you and to your Children: <hi>but you cannot affirme the ſame of others, for there is no ſuch promiſe.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Exception </seg>2</label> Secondly, <hi>Others expound the place thus; The promiſe is to you if you repent, and to your Children, and to thoſe that are afarre off (that is Gentiles) even ſo many as the</hi> Lord our God <hi>ſhall call, if they repent: Or thus, who<g ref="char:EOLhyphen"/>ſoever</hi> God <hi>calleth (be it your ſelves, your Children, or any of the Gentiles) to them the promiſe belongeth.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Exception </seg>3</label> Thirdly, <hi>Some affirme, this is no the pro<g ref="char:EOLhyphen"/>miſe of</hi> Gen. 17. <hi>(as you ſeeme to take it) but of</hi> Joel 2. <hi>which the ſpeech concerneth all along this Chapter; and the ſenſe is,</hi> The promiſe <hi>(Viz. of extraordinary gifts of the ſpirit, to ſpeake to people of ſtrange languages, in their Mother tongues, as wee doe this day)</hi> is to you, and to your Children, and to as many as are afar off; even as many as the Lord our God ſhall call: <hi>to wit, to Preach to ſuch people as he hath called us.</hi>
+                  </p>
+                  <pb n="73" facs="tcp:169824:41"/>
+                  <p>
+                     <hi>Reſol.</hi>
+                     <note place="margin">
+                        <hi>1</hi> Exception taken off.</note> Admit they were all Jewes by Na<g ref="char:EOLhyphen"/>tion (although I ſee no neceſſity to grant it:) Is not the partition-wall yet broken downe?<note place="margin">Eph. 2.12, 13, &amp;c. Acts 10.34, 35. Gal. 5.13, 14. Rom. 2.26.27, 28, 29, &amp; 4.9. 1 Cor. 7.19 Gal. 6.15.</note> What then ſignifie theſe Scriptures in the Margent? If it be, what mean learn<g ref="char:EOLhyphen"/>ed men to cumber us with ſuch diſtinctions or reſtrictions, as Beleevers in <hi>Abrahams</hi> line, and Beleevers out of his line?</p>
+                  <p n="2">2.<note place="margin">
+                        <hi>2</hi> Exception removed.</note> The limitation, <hi>Even as many, &amp;c.</hi> limits onely the immediate clauſe, <hi>And to all that are afarre off:</hi> not the whole ſen<g ref="char:EOLhyphen"/>tence; the ſenſe being this, The promiſe is to you and to your Children (abſolutely) but not to you and your Children alone, but to ſuch alſo are afar off, if the Lord call them to repentance; nor doe I ſpeake this for mine owne advantage, but the ſcope of the place proves it; for elſe <hi>Peter</hi> might better have ſayd, the promiſe is to all that repent, then to proclaime the Covenant of God to repenters and their Seed, and when all is ſummed up, there is no pro<g ref="char:EOLhyphen"/>miſe to the penitents ſeed at all; were not here a faire ſlouriſh about nothing, to ſay, ſo much of mercy offered to their ſeed, and yet their ſeed receives no benefit at all? Yes (you will ſay) their ſeed may alſo repent, and then have the priviledges the Parents had: But I would faine know under what
+<pb n="74" facs="tcp:169824:42"/>notion the Child of a Beleever becomes capable of theſe Covenant-priviledges, whether as a Beleever, or as the Child of a Beleever? If it be ſayd, as a Beleever; then it cannot be as the Son of a Beleever; for had all his kindred been Turkes, or Hea<g ref="char:EOLhyphen"/>thens, he might (yea ought to) be re<g ref="char:EOLhyphen"/>ceived when it appeareth that himſelfe be<g ref="char:EOLhyphen"/>leeveth: If as the Child of a Beleever, why may he not be received in infancy? For he can never be more the Child of a Be<g ref="char:EOLhyphen"/>leever, then he is the firſt minuite of his life.</p>
+                  <p n="3">3.<note place="margin">
+                        <hi>3</hi> Exception replied unto.</note> This promiſe cannot be that of the ſecond of <hi>Joel</hi> (though I grant that is in<g ref="char:EOLhyphen"/>ſiſted on in this Chapter) for it runs not in the ſame tearmes: That in <hi>Joel</hi> is to the Sons and Daughters immediately; this to the Parents, and ſecundarily to the Chil<g ref="char:EOLhyphen"/>dren like, <hi>Gen.</hi> 17.7. Much leſſe will the coherence allow it. For when the poore creatures were pricked in their hearts, cry<g ref="char:EOLhyphen"/>ing out, <hi>Men and Brethren what ſhall wee doe?</hi> Was it ſuitable to tell them, the muſt repent and be baptized all of them; and then if it ſhould pleaſe God to call them to be Preachers, they might expect the ex<g ref="char:EOLhyphen"/>traordinary gifts of the ſpirit inabling them to Preach to people of ſtrange lan<g ref="char:EOLhyphen"/>guages,
+<pb n="75" facs="tcp:169824:42"/>or if he called their Children, or any of the Gentiles to the like worke, they might expect the like aſſiſtance? Were this ſalve for a wounded conſcience, groaning under the burden of ſin? If there were no Women amongſt them (which yet is to me very doubtfull) we may nevertheleſſe ſup<g ref="char:EOLhyphen"/>poſe upon good probability: 1. that ma<g ref="char:EOLhyphen"/>ny of them (if not the moſt) were never called to be Preachers: 2. On the other ſide, experience tels us, that in ſome places (as <hi>New England</hi> for example) Miniſters that have been ſent to people of ſtrange tongues (as appeares by the bleſſing of God upon their indeavours) have not attained to their ſpeech by immediate inſpiration, but in time acquired the knowledge there<g ref="char:EOLhyphen"/>of, by induſtry and converſing among them: Nor 3. can miniſteriall abilities appeaſe an awakened conſcience, but the revelation of free pardon; and ſo muſt <hi>Peters</hi> ſpeech be expounded, <hi>Repent and be baptized every one of you for the remiſſion of ſins, and yee ſhall receive the gift of the holy Ghoſt</hi> (a gift fre<g ref="char:EOLhyphen"/>quently beſtowed on ordinary hearers in thoſe dayes<note n="h" place="margin">Acts 8.15 16, 17. &amp; 10.44, 45, 46. &amp; 19.2. <hi>cum</hi> 6.</note>) and his maine argument to of grace) <hi>is to you and to your Children.</hi> Thus move them to repent and be baptized, is this <hi>The promiſe</hi> (<hi>i.e.</hi> the externall Covenant
+<pb n="76" facs="tcp:169824:43"/>I hope theſe objections have received their full anſwers: I would onely add this more concerning them; though they be brought by one party, and for one cauſe they doe vehemently interfere, and fight one againſt another, inſomuch that no two of them can ſtand together: For the firſt ſuppoſeth the promiſe to be the Covenant of grace, &amp; advanceth Jews above Gentiles in the in<g ref="char:EOLhyphen"/>joyment of it, making the Priviledges of the Jews hereditary, but of the Gentiles meer<g ref="char:EOLhyphen"/>ly perſonall: The ſecond likewiſe ſuppoſeth it to be the Covenant of grace, but utterly quaſheth the pretended difference between Beleevers in <hi>Abrahams</hi> line, and Beleevers out of his line, which the firſt exception urged: The third denyeth it to be a Co<g ref="char:EOLhyphen"/>venant of grace: So then take which you will, and it overthroweth the other two; and yet theſe multiformous creatures muſt all be drawne in one yoak (though they looke ſo many ſeverall wayes) to the pre<g ref="char:EOLhyphen"/>judice of the truth; but it is impoſſible a cauſe ſhould proſper under ſo many and manifeſt contradictions.</p>
+                  <p>
+                     <hi>Serpentes avibus geminantur,</hi>
+                     <note place="margin">Horat.</note> 
+                     <hi>tigribus agni.</hi>
+                  </p>
+                  <p n="66">66. Doubt. <hi>How can an Infant be in Covenant with God, when as it doth not con<g ref="char:EOLhyphen"/>ſent
+<pb n="77" facs="tcp:169824:43"/>to its owne baptiſme; and a Covenant re<g ref="char:EOLhyphen"/>quires the conſent of both parties?</hi>
+                  </p>
+                  <p>
+                     <hi>Reſol.</hi> 1. It is a miſtake to thinke that baptiſme brings a ſoule within Covenant, whereas it is an evidence of a mans being in Covenant with God (externall I meane all along) before he was baptized<note n="i" place="margin">Acts 2.38 39. &amp; 8.37. <hi>cum</hi> 38. &amp; 16.14, 15.</note>, as Cir<g ref="char:EOLhyphen"/>cumciſion alſo was<note n="k" place="margin">Gen. 12.1, 2, 3. <hi>cum</hi> Chap. 17.7 Joſh. 5.3. <hi>cum</hi> Jer. 31 32.</note>.</p>
+                  <p n="2">2. Gods Covenants doe not need a re<g ref="char:EOLhyphen"/>ſtipulation on the creatures part: He made a Covenant with <hi>Abrahams</hi> ſeed, while yet he had no child<note n="l" place="margin">Gen. 12.15. &amp; 17. Chapters. Acts 7.5.</note> ; yea he did not onely Covenant with <hi>Noah</hi> and his ſeed, but with every living creature<note n="m" place="margin">Gen. 9.9 10.</note>, and yet theſe could not reſtipulate. When men Covenant both parties muſt conſent, becauſe elſe the one knowes not the others mind, nor hath power to worke him to his purpoſe: but God performes all; he becomes their God and makes them his people<note n="n" place="margin">Jer. 31.31, 32. Heb. 8.10.</note>.</p>
+                  <p n="67">67. Doubt. <hi>How can Children be law<g ref="char:EOLhyphen"/>fully baptized, ſeeing Faith is required</hi>
+                     <note n="o" place="margin">Mark 16.16.</note> 
+                     <hi>which Infants have not?</hi>
+                  </p>
+                  <p>
+                     <hi>Reſol.</hi> Things muſt be underſtood ac<g ref="char:EOLhyphen"/>cording to the capacity of the perſons ſpo<g ref="char:EOLhyphen"/>ken to: <hi>Paul</hi> ſaith, if any would not work neither muſt he eate<note n="p" place="margin">2 Theſ. 3 10.</note>. Muſt therefore In<g ref="char:EOLhyphen"/>fants, and they which are diſabled by ſick<g ref="char:EOLhyphen"/>neſſe or age, either worke or periſh? In like
+<pb n="78" facs="tcp:169824:44"/>manner, Chriſts words which you quote ſeeme to import, that he which beleeveth not muſt not be baptized; but looke at the precedent Verſe, and you ſhall ſee ſuch are pointed as, as can heare the Word Preach<g ref="char:EOLhyphen"/>ed, which Infants cannot: Infants be<g ref="char:EOLhyphen"/>leeve in their Parents, as <hi>Levi</hi> payd tythes in <hi>Abraham,</hi> and Parents bringin their Children to Chriſt, the children themſelves are ſayd to come to him<note n="q" place="margin">Mat. 19.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 14. Mark 10.13, 14. Luke 18.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 16.</note>.</p>
+                  <p>If you allow not this, conſider what dangerous Doctrine, and uncharitable judgement, you muſt needs by conſequence entertaine: <hi>Viz.</hi> that all which dye Infants are damned; for it you ſay an Infant can<g ref="char:EOLhyphen"/>not be baptized, becauſe it hath not faith; by the ſame reaſon you muſt conclude alſo, that becauſe it wanteth faith it cannot be ſaved; for the Text you alleadge, is farre more expreſſe for that, then the other: <hi>He that beleeveth not ſhall be domned.</hi>
+                  </p>
+                  <p n="68">68. Doubt. <hi>Some conceive,</hi> 1 <hi>Cor.</hi> 7.14. <hi>proveth a Child to be out of Covenant, except one of the next and immediate Parents be a Beleever? I pray you tell me your apprehenſion thereof.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſol,</hi> Truely I think it doth not;<note n="*" place="margin">Nec ſtan<g ref="char:EOLhyphen"/>tem a parte affirmativa cogit <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, locus, <hi>1 Cor 7.14.</hi> ubi Apoſtolus dicendo libe<g ref="char:EOLhyphen"/>ros cujuſvis parentis fide<g ref="char:EOLhyphen"/>lis (majo<g ref="char:EOLhyphen"/>ribus omni<g ref="char:EOLhyphen"/>bus ethni<g ref="char:EOLhyphen"/>cis) eſſe Sanctos li<g ref="char:EOLhyphen"/>beros ambo<g ref="char:EOLhyphen"/>rum paren<g ref="char:EOLhyphen"/>tum imme<g ref="char:EOLhyphen"/>diatorum (reliquis omnibus majoribus membris) <gap reason="illegible" resp="#UOM" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> eſſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Apollo<g ref="char:EOLhyphen"/>aium Ca. 2. p. 38.</hi>
+                     </note> for although in ſuch a caſe as theirs, when the Goſpell was newly ſowne amongſt them,
+<pb n="79" facs="tcp:169824:44"/>and all their Anceſtours had been heathens, one of the Parents muſt needs be a Beleever, or the Child be deſtitute of federall holi<g ref="char:EOLhyphen"/>neſſe; yet I judge far otherwiſe, concern<g ref="char:EOLhyphen"/>ing the ſeed of beleeving (though remote) Parents<note n="r" place="margin">Exo. 20.6 Gen. 17.7. Pſa. 89.29. &amp; 103.17.18.</note>.</p>
+                  <p n="69">69. Doubt. <hi>How may the Papiſts be an<g ref="char:EOLhyphen"/>ſwered, which contend for Chriſts reall pre<g ref="char:EOLhyphen"/>ſence in the Hoſt, ſeeing Chriſt ſayd expreſly,</hi> This is my body, <hi>and his words muſt needs be true?</hi>
+                  </p>
+                  <p>
+                     <hi>Reſol.</hi> We confeſſe, he is preſent truely (though not corporally, but Sacramen<g ref="char:EOLhyphen"/>tally) in the ſame ſenſe that <hi>Paul</hi> ſaith, <hi>The Rock was Chriſt</hi>
+                     <note n="ſ" place="margin">1 Cor. 10.4.</note> ; that is a figure of Chriſt.</p>
+                  <p n="70">70. Doubt. <hi>If a man muſt examine him<g ref="char:EOLhyphen"/>ſelfe, and ſo eate of that bread and drinke of that Cup</hi>
+                     <note n="t" place="margin">1 Cor. 11.28.</note>, <hi>why ſhould any other examine him?</hi>
+                  </p>
+                  <p>
+                     <hi>Reſol.</hi> It is not intended excluſively, as if none elſe might, but that himſelfe muſt except he will be <hi>guilty of the body and blood of the Lord,</hi> and <hi>eate and drinke damnation to himſelfe</hi>
+                     <note n="u" place="margin">Ver. 27, 29. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</note> : The word which is tranſlated <hi>[ſo]</hi> is an Adverbe of likeneſſe, and there<g ref="char:EOLhyphen"/>fore it cannot be rendred, <hi>Let a man exa<g ref="char:EOLhyphen"/>mine himſelfe, and ſo</hi> (that is, without more adoe) <hi>let him eate, &amp;c</hi> But thus, <hi>Let a man examine himſelfe, and ſo</hi> (that is, in that
+<pb n="80" facs="tcp:169824:45"/>frame of ſelfe-examination) <hi>let him eate of that bread, &amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="16" type="chapter">
+               <head>
+                  <hi>CHAP. XVI.</hi> Of the state of Men after death, and withall, of the Reſurrection, and laſt Judgement.</head>
+               <p n="71">71, Doubt. <hi>HOw can a man comfort himſelfe, in the death of his prophane kindred?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> He may quiet his heart with theſe confiderations following.</p>
+               <p n="1">1. <hi>God</hi> is ready to forgive thoſe which repent at the laſt moment, and for ought we know, may worke repentance, when the party is too far ſpent to expreſſe it.</p>
+               <p n="2">2. <hi>Gods</hi> decree is unchangeable, and therefore they either were elected and are ſaved, or Reprobates and could never have been ſaved, had they lived a thou<g ref="char:EOLhyphen"/>ſand yeares.</p>
+               <p n="3">3. Had ſuch as are rejected of God, lived longer, their impenitent hearts would have cauſed them ſtill to have treaſured more wrath to themſelves, by proceeding further in wickedneſſe<note n="a" place="margin">Rom. 2.5</note>.</p>
+               <pb n="81" facs="tcp:169824:45"/>
+               <p n="4">4. Our relation to them (the maine cauſe why we are grieved for them) ceaſeth after this life<note n="b" place="margin">Mat. 22.30.</note>
+               </p>
+               <p n="5">5. However it is with them, God will diſpoſe of all things for his onely glory, which ſhould be more deare to us then our friends (yea our owne) ſoules.</p>
+               <p n="72">72. Doubt. <hi>If the whole man (ſoule and body) ſinned, how can it otherwiſe be but the ſoule muſt dye as well as the body?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> Man in his actings is to be conſi<g ref="char:EOLhyphen"/>dered <hi>collectively,</hi> not <hi>diſtributively;</hi> and as ſin is not acted by the ſoule and body in a divided ſenſe, but joyntly by the whole man, conſiſting of ſoule and body, as its conſtitutive parts<note n="c" place="margin">Gen. 2.7.</note> : So man dyes not in a diſtributive ſenſe, as if the body dyed by it ſelfe, and the ſoule by it ſelfe; but as a creature compact of both, he dyeth (or ceaſeth to be what he was) when the ſoule (which is the eſſentiall forme of a man) is taken away. A Parliament when diſſol<g ref="char:EOLhyphen"/>ved, looſeth its eſſence (as ſuch) though all the members be alive; ſo doth an houſe dimoliſhed, though all the materialls re<g ref="char:EOLhyphen"/>maine whole: So when the ſoule and bo<g ref="char:EOLhyphen"/>dy are diſunited, the man is dead. howbeit the ſoule lives either in happineſſe, or woe<note n="d" place="margin">Eccleſ. 12 7. Mat. 10.28 Luk. 12.4. &amp; 16.23. 1 Pet. 3.19 Revel. 6.9.10, 11.</note>.</p>
+               <pb n="82" facs="tcp:169824:46"/>
+               <p n="73">73. Doubt. <hi>If there be no ſatisfaction of the juſtice of God after this life, which men having given, ſhall be forgiven and ſaved, how is it ſayd,</hi> Till thou haſt payd the laſt mite<note n="e" place="margin">Luke 12.59.</note>, or uttermoſt farthing<note n="f" place="margin">Mat. 5.26</note>?</p>
+               <p>
+                  <hi>Reſol.</hi> This word <hi>[till]</hi> is often found in Scripture, ſignifying (or at leaſt not ex<g ref="char:EOLhyphen"/>cluding) perpetuity<note n="g" place="margin">Gen. 8.7. &amp; 28.15. 1 Sam. 15.35. 2 Sam. 6.23 Pſal. 110.1. &amp; 123.2. Mat. 1.25. &amp; 28.20. 2 Tim. 4.13 2 Pet. 1.19</note>, and taken in that ſenſe, the force of it is thus much; if thou be not reconciled to God in Chriſt before thy death, thou ſhalt be caſt into the pri<g ref="char:EOLhyphen"/>ſon of Hell, there to abide the exact juſtice of God for ever, becauſe thou never canſt ſo ſatisfie his wrath, as to be acquitted from it.</p>
+               <p n="74">74. Doubt. <hi>If every ſoule when it leaveth the body, goeth either to Heaven or Hell imme<g ref="char:EOLhyphen"/>diately, to what purpoſe is the reſurrection, or day of judgement.</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> There is very great reaſon for them: a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</p>
+               <p>Firſt, That the whole creation may be purged, and delivered from the bondage of corruption<note n="h" place="margin">Rom. 8.19, 20, &amp;c.</note>.</p>
+               <p>Secondly, That the ſoule and body which ſuffered or finned together, may in the righ<g ref="char:EOLhyphen"/>teous day of the Lord be crowned, or pu<g ref="char:EOLhyphen"/>niſhed<note n="i" place="margin">2 Theſ. 1.6, 7, &amp;c. 2 Tim. 4.7, 8.</note>.</p>
+               <p>Thirdly, That all hidden things<note n="k" place="margin">Eccl. 12.14. Luke 12.2.</note> ; yea
+<pb n="83" facs="tcp:169824:46"/>the ſecrets of hearts<note n="l" place="margin">Rom. 2.16.</note>, may be diſco<g ref="char:EOLhyphen"/>vered, that thereby Gods righteous judge<g ref="char:EOLhyphen"/>ment may be alſo revealed<note n="m" place="margin">Rom. 2.5</note>.</p>
+               <p>Fourthly, That he may publickly right his people upon their enemies<note n="n" place="margin">2 Theſ. 1.6, &amp;c.</note>.</p>
+               <p n="75">75. Doubt. <hi>Godly men, are men ſtill, and Chriſt avoucheth,</hi> That every idle word that men ſhall ſpeake, they ſhall give account thereof at the day of judgement<note n="o" place="margin">Mat. 12.36.</note> : <hi>How then can they be ſayd to be diſcharged from all ſinne?</hi>
+               </p>
+               <p>
+                  <hi>Reſol.</hi> The meaning is not as if the god<g ref="char:EOLhyphen"/>ly ſhall be called to account, for their idle words, or any other ſins; but onely thus much; that the judgement of God ſhall be ſo exact and ſevere, that even ſo much as an idle word ſhall not paſſe him without ful ſatisfaction to his juſtice, on the tranſgreſ<g ref="char:EOLhyphen"/>ſour, or his ſurety; and that he which hath not his pardon already procured by Chriſt, ſhall be found culpable at that day, and the ſentence of condemnation pronounced a<g ref="char:EOLhyphen"/>gainſt him, though he had onely one idle word to anſwer for.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="84" facs="tcp:169824:47"/>
+            <head>Poſtſcript.</head>
+            <p>SOme Friends expected ere this time I ſhould have publiſhed a Treatiſe tending towards accommodation in Church diſcipline, which they know I have made a conſiderable procedure in: Others of a maligning ſpirit, ſcoffe at me, as if to finiſh it, were either impoſſible, or vaine: To both theſe I ſhall onely ſay thus much: <hi>Viz.</hi> That however the peruſing of many tracts, for the materials therein improved, together with multiplicity of imployment in an unſetled con<g ref="char:EOLhyphen"/>dition, and withall the want of a Book or two, which yet I cannot attaine, have hindred the perfecting thereof; I hope it will not be long ere it have its due from me: After which (if its prolixity hinder not, but that I mry have a faire opportunity to make it publick) I ſhall ſend it abroad, and my prayers after it, for a bleſſing thereon: If not, though the fault will not be mine, I ſhall make amends as farre as I can, either by Printing an Epitome thereof, or at leaſt, by ſuffering ſuch Friends to peruſe it in writing, as deſire the ſame.</p>
+         </div>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>July, <hi>30. 1649.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>Joſeph Caryl.</signed>
+            </closer>
+         </div>
+         <div type="Scripture_index">
+            <pb n="85" facs="tcp:169824:47"/>
+            <p>
+               <table>
+                  <row role="label">
+                     <cell>The Texts of Scrip<g ref="char:EOLhyphen"/>ture.</cell>
+                     <cell>Places in the Booke.</cell>
+                  </row>
+                  <row>
+                     <cell>Gen. 1.5.8.13.19.23.31.</cell>
+                     <cell>Chap. <hi>12.</hi> Reſol. to <hi>56.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Gen. 6.6.</cell>
+                     <cell>Chap. <hi>2.</hi> Doubt. <hi>3.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gen. 17.7.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>64.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Gen. 17.14.</cell>
+                     <cell>Chap. <hi>6.</hi> Reſol. to <hi>24.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Levit. 12.1.2.3.4.</cell>
+                     <cell>Chap <hi>15.</hi> Reſol. of <hi>64.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Numb. 15.30.</cell>
+                     <cell>Chap. <hi>6.</hi> Doubt. <hi>24.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Deut. 6.13. &amp; 10.20.</cell>
+                     <cell>Chap. <hi>13.</hi> Doubt. <hi>57.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 Sam. 15.11.</cell>
+                     <cell>Chap. <hi>2.</hi> Doubt. <hi>3.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Iſaiah 45.21.</cell>
+                     <cell>Chap. <hi>2.</hi> Doubt. <hi>6.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Matth. 5.26.</cell>
+                     <cell>Chap. <hi>6.</hi> Doubt. <hi>73.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Matth. 5.34.</cell>
+                     <cell>Chap. <hi>13.</hi> Doubt. <hi>58.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Matth. 12.36.</cell>
+                     <cell>Chap. <hi>16.</hi> Doubt. <hi>75.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mat. 17.20.</cell>
+                     <cell>Chap. <hi>9.</hi> Doubt. <hi>39.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mat. 19.13.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>64</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Mat. 28.19.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>63.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Mark 10.14.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>64.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Mark 16.16.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>67.</hi> Doubt.</cell>
+                  </row>
+                  <pb facs="tcp:169824:48"/>
+                  <row>
+                     <cell>Luke 12.59.</cell>
+                     <cell>Chap. <hi>16.</hi> Doubt. <hi>73.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Luke 18.15, 16.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>64</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Acts 2.39.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>64.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>Acts 15.10.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. of <hi>63</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Cor. 7.14.</cell>
+                     <cell>Chap. <hi>15.</hi> Reſol. to <hi>64</hi> and <hi>68.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Cor. 7.23.</cell>
+                     <cell>Chap. <hi>11.</hi> Doubt. <hi>47.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 Cor. 11.28.</cell>
+                     <cell>Chap. <hi>15.</hi> Doubt. <hi>70.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 Cor. 12.28.</cell>
+                     <cell>Chap. <hi>14.</hi> Reſol. to <hi>59.</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Cor. 14.26.</cell>
+                     <cell>Chap. <hi>12.</hi> Reſol. of <hi>52</hi> Doubt.</cell>
+                  </row>
+                  <row>
+                     <cell>2 Cor. 3.6, 7, 8.</cell>
+                     <cell>Chap. <hi>6.</hi> Doubt. <hi>25,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2 Tim. 2.13.</cell>
+                     <cell>Chap. <hi>9.</hi> Doubt. <hi>38.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>James 5.12.</cell>
+                     <cell>Chap. <hi>13.</hi> Doubt. <hi>58.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 John 3.14.</cell>
+                     <cell>Chap. <hi>10.</hi> Reſol. to <hi>46</hi> Doubt.</cell>
+                  </row>
+               </table> 
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:169824:48"/>
+            <head>The Capitall Contents of this ſhort Diſcourſe.</head>
+            <list>
+               <item>
+                  <hi>CHAP. I.</hi> Concerning the holy Scriptures, and by the way, of the light of Nature. <hi>p. 1.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 2.</hi> Of God. <hi>p. 4.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 3.</hi> Of Gods Decree, and of Cre<g ref="char:EOLhyphen"/>ation. <hi>p. 6.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 4.</hi> Of Providence. <hi>p. 10.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 5.</hi> Of the fall of Man. <hi>p. 13.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 6.</hi> Of the Law of God and the two Covenants. <hi>p. 16.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 7.</hi> Of Chriſt the Mediatour. <hi>p. 22.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 8.</hi> Of Free-will. <hi>p. 28.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 9.</hi> Of Calling, Juſtification, Sanctification, Adoption, Faith, Re<g ref="char:EOLhyphen"/>pentance, and good Workes. <hi>p. 31.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 10.</hi> Of Perſeverance, and Aſ<g ref="char:EOLhyphen"/>ſurance. <hi>p. 38.</hi>
+               </item>
+               <pb facs="tcp:169824:49"/>
+               <item>
+                  <hi>Chap. 11.</hi> Of Chriſtian Liberty, and Liberty of Conſcience: and withall of the Christian Magistrate, and Church-cenſures. <hi>p. 47.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 12.</hi> Of Religious Worſhip, and of the Sabbath-day. <hi>p. 49.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 13.</hi> Of Oathes. <hi>p. 54.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 14.</hi> Of the Church, and Com<g ref="char:EOLhyphen"/>munion of Saints. <hi>p. 56.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 15.</hi> Of Baptiſme, and the Lords Supper <hi>p. 57.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 16.</hi> Of the state of Men after death; and withall, of the Reſur<g ref="char:EOLhyphen"/>rection, and last Judgement. <hi>p. 80.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
